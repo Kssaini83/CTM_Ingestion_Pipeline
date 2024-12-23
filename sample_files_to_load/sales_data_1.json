@@ -1,0 +1,8002 @@
+[
+    {
+        "transaction_id": 1,
+        "customer_id": 148,
+        "product_id": 329,
+        "quantity": 8,
+        "total_price": 268.49,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 2,
+        "customer_id": 115,
+        "product_id": 379,
+        "quantity": 9,
+        "total_price": 396.3,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 3,
+        "customer_id": 199,
+        "product_id": 384,
+        "quantity": 5,
+        "total_price": 286.72,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 4,
+        "customer_id": 122,
+        "product_id": 388,
+        "quantity": 10,
+        "total_price": 531.4,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 5,
+        "customer_id": 107,
+        "product_id": 359,
+        "quantity": 9,
+        "total_price": 528.32,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 6,
+        "customer_id": 165,
+        "product_id": 354,
+        "quantity": 6,
+        "total_price": 454.72,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 7,
+        "customer_id": 161,
+        "product_id": 307,
+        "quantity": 7,
+        "total_price": 664.55,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 8,
+        "customer_id": 101,
+        "product_id": 392,
+        "quantity": 9,
+        "total_price": 846.92,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 9,
+        "customer_id": 146,
+        "product_id": 396,
+        "quantity": 4,
+        "total_price": 178.22,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 10,
+        "customer_id": 119,
+        "product_id": 306,
+        "quantity": 1,
+        "total_price": 68.94,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 11,
+        "customer_id": 178,
+        "product_id": 345,
+        "quantity": 7,
+        "total_price": 121.93,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 12,
+        "customer_id": 104,
+        "product_id": 352,
+        "quantity": 3,
+        "total_price": 153.91,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 13,
+        "customer_id": 158,
+        "product_id": 396,
+        "quantity": 1,
+        "total_price": 36.95,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 14,
+        "customer_id": 176,
+        "product_id": 395,
+        "quantity": 7,
+        "total_price": 547.74,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 15,
+        "customer_id": 195,
+        "product_id": 393,
+        "quantity": 8,
+        "total_price": 287.56,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 16,
+        "customer_id": 157,
+        "product_id": 399,
+        "quantity": 1,
+        "total_price": 21.83,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 17,
+        "customer_id": 151,
+        "product_id": 373,
+        "quantity": 4,
+        "total_price": 169.61,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 18,
+        "customer_id": 163,
+        "product_id": 306,
+        "quantity": 3,
+        "total_price": 179.25,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 19,
+        "customer_id": 134,
+        "product_id": 327,
+        "quantity": 4,
+        "total_price": 391.16,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 20,
+        "customer_id": 162,
+        "product_id": 307,
+        "quantity": 6,
+        "total_price": 234.8,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 21,
+        "customer_id": 177,
+        "product_id": 300,
+        "quantity": 1,
+        "total_price": 56.82,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 22,
+        "customer_id": 140,
+        "product_id": 302,
+        "quantity": 2,
+        "total_price": 98.7,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 23,
+        "customer_id": 186,
+        "product_id": 316,
+        "quantity": 6,
+        "total_price": 255.97,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 24,
+        "customer_id": 164,
+        "product_id": 400,
+        "quantity": 4,
+        "total_price": 43.57,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 25,
+        "customer_id": 178,
+        "product_id": 337,
+        "quantity": 6,
+        "total_price": 573.72,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 26,
+        "customer_id": 116,
+        "product_id": 383,
+        "quantity": 5,
+        "total_price": 230.92,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 27,
+        "customer_id": 103,
+        "product_id": 362,
+        "quantity": 4,
+        "total_price": 64.23,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 28,
+        "customer_id": 164,
+        "product_id": 351,
+        "quantity": 1,
+        "total_price": 87.32,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 29,
+        "customer_id": 138,
+        "product_id": 308,
+        "quantity": 10,
+        "total_price": 348.29,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 30,
+        "customer_id": 121,
+        "product_id": 322,
+        "quantity": 9,
+        "total_price": 775.75,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 31,
+        "customer_id": 124,
+        "product_id": 348,
+        "quantity": 2,
+        "total_price": 196.01,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 32,
+        "customer_id": 178,
+        "product_id": 318,
+        "quantity": 3,
+        "total_price": 104.93,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 33,
+        "customer_id": 102,
+        "product_id": 374,
+        "quantity": 6,
+        "total_price": 105.52,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 34,
+        "customer_id": 170,
+        "product_id": 307,
+        "quantity": 5,
+        "total_price": 171.08,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 35,
+        "customer_id": 182,
+        "product_id": 346,
+        "quantity": 9,
+        "total_price": 290.25,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 36,
+        "customer_id": 171,
+        "product_id": 320,
+        "quantity": 1,
+        "total_price": 54.77,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 37,
+        "customer_id": 126,
+        "product_id": 351,
+        "quantity": 2,
+        "total_price": 128.61,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 38,
+        "customer_id": 132,
+        "product_id": 349,
+        "quantity": 9,
+        "total_price": 409.87,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 39,
+        "customer_id": 116,
+        "product_id": 343,
+        "quantity": 2,
+        "total_price": 32.62,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 40,
+        "customer_id": 172,
+        "product_id": 352,
+        "quantity": 10,
+        "total_price": 942.97,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 41,
+        "customer_id": 189,
+        "product_id": 398,
+        "quantity": 10,
+        "total_price": 304.5,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 42,
+        "customer_id": 102,
+        "product_id": 302,
+        "quantity": 2,
+        "total_price": 157.19,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 43,
+        "customer_id": 132,
+        "product_id": 383,
+        "quantity": 8,
+        "total_price": 654.56,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 44,
+        "customer_id": 199,
+        "product_id": 314,
+        "quantity": 6,
+        "total_price": 292.89,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 45,
+        "customer_id": 179,
+        "product_id": 345,
+        "quantity": 7,
+        "total_price": 522.86,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 46,
+        "customer_id": 190,
+        "product_id": 349,
+        "quantity": 1,
+        "total_price": 97.79,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 47,
+        "customer_id": 113,
+        "product_id": 326,
+        "quantity": 5,
+        "total_price": 334.85,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 48,
+        "customer_id": 115,
+        "product_id": 385,
+        "quantity": 9,
+        "total_price": 883.19,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 49,
+        "customer_id": 135,
+        "product_id": 373,
+        "quantity": 1,
+        "total_price": 75.12,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 50,
+        "customer_id": 137,
+        "product_id": 350,
+        "quantity": 5,
+        "total_price": 110.58,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 51,
+        "customer_id": 179,
+        "product_id": 394,
+        "quantity": 8,
+        "total_price": 461.8,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 52,
+        "customer_id": 182,
+        "product_id": 371,
+        "quantity": 8,
+        "total_price": 740.22,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 53,
+        "customer_id": 100,
+        "product_id": 313,
+        "quantity": 2,
+        "total_price": 117.81,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 54,
+        "customer_id": 194,
+        "product_id": 318,
+        "quantity": 8,
+        "total_price": 587.23,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 55,
+        "customer_id": 194,
+        "product_id": 400,
+        "quantity": 9,
+        "total_price": 569.3,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 56,
+        "customer_id": 171,
+        "product_id": 353,
+        "quantity": 2,
+        "total_price": 98.92,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 57,
+        "customer_id": 152,
+        "product_id": 387,
+        "quantity": 2,
+        "total_price": 72.88,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 58,
+        "customer_id": 132,
+        "product_id": 397,
+        "quantity": 7,
+        "total_price": 237.44,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 59,
+        "customer_id": 194,
+        "product_id": 394,
+        "quantity": 10,
+        "total_price": 584.58,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 60,
+        "customer_id": 158,
+        "product_id": 360,
+        "quantity": 6,
+        "total_price": 71.91,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 61,
+        "customer_id": 106,
+        "product_id": 370,
+        "quantity": 10,
+        "total_price": 419.77,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 62,
+        "customer_id": 192,
+        "product_id": 388,
+        "quantity": 4,
+        "total_price": 59.01,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 63,
+        "customer_id": 117,
+        "product_id": 375,
+        "quantity": 5,
+        "total_price": 182.32,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 64,
+        "customer_id": 128,
+        "product_id": 302,
+        "quantity": 7,
+        "total_price": 450.89,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 65,
+        "customer_id": 136,
+        "product_id": 314,
+        "quantity": 2,
+        "total_price": 154.44,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 66,
+        "customer_id": 186,
+        "product_id": 320,
+        "quantity": 7,
+        "total_price": 391.71,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 67,
+        "customer_id": 116,
+        "product_id": 376,
+        "quantity": 5,
+        "total_price": 146.96,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 68,
+        "customer_id": 133,
+        "product_id": 372,
+        "quantity": 10,
+        "total_price": 523.43,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 69,
+        "customer_id": 103,
+        "product_id": 389,
+        "quantity": 5,
+        "total_price": 375.64,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 70,
+        "customer_id": 184,
+        "product_id": 358,
+        "quantity": 4,
+        "total_price": 81.36,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 71,
+        "customer_id": 168,
+        "product_id": 312,
+        "quantity": 3,
+        "total_price": 148.37,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 72,
+        "customer_id": 119,
+        "product_id": 306,
+        "quantity": 4,
+        "total_price": 321.54,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 73,
+        "customer_id": 151,
+        "product_id": 380,
+        "quantity": 2,
+        "total_price": 101.26,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 74,
+        "customer_id": 198,
+        "product_id": 333,
+        "quantity": 3,
+        "total_price": 101.75,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 75,
+        "customer_id": 181,
+        "product_id": 332,
+        "quantity": 9,
+        "total_price": 472.69,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 76,
+        "customer_id": 186,
+        "product_id": 363,
+        "quantity": 1,
+        "total_price": 76.76,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 77,
+        "customer_id": 126,
+        "product_id": 308,
+        "quantity": 3,
+        "total_price": 256.89,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 78,
+        "customer_id": 145,
+        "product_id": 380,
+        "quantity": 9,
+        "total_price": 754.41,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 79,
+        "customer_id": 193,
+        "product_id": 309,
+        "quantity": 1,
+        "total_price": 91.01,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 80,
+        "customer_id": 181,
+        "product_id": 342,
+        "quantity": 7,
+        "total_price": 417.88,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 81,
+        "customer_id": 123,
+        "product_id": 369,
+        "quantity": 6,
+        "total_price": 255.46,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 82,
+        "customer_id": 111,
+        "product_id": 393,
+        "quantity": 4,
+        "total_price": 189.95,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 83,
+        "customer_id": 199,
+        "product_id": 325,
+        "quantity": 4,
+        "total_price": 43.27,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 84,
+        "customer_id": 144,
+        "product_id": 384,
+        "quantity": 5,
+        "total_price": 341.88,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 85,
+        "customer_id": 192,
+        "product_id": 317,
+        "quantity": 4,
+        "total_price": 324.99,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 86,
+        "customer_id": 161,
+        "product_id": 376,
+        "quantity": 10,
+        "total_price": 349.85,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 87,
+        "customer_id": 199,
+        "product_id": 396,
+        "quantity": 10,
+        "total_price": 140.71,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 88,
+        "customer_id": 151,
+        "product_id": 360,
+        "quantity": 9,
+        "total_price": 170.65,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 89,
+        "customer_id": 200,
+        "product_id": 368,
+        "quantity": 3,
+        "total_price": 247.57,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 90,
+        "customer_id": 100,
+        "product_id": 321,
+        "quantity": 2,
+        "total_price": 35.61,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 91,
+        "customer_id": 165,
+        "product_id": 396,
+        "quantity": 8,
+        "total_price": 549.72,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 92,
+        "customer_id": 151,
+        "product_id": 354,
+        "quantity": 1,
+        "total_price": 80.61,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 93,
+        "customer_id": 154,
+        "product_id": 344,
+        "quantity": 8,
+        "total_price": 619.62,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 94,
+        "customer_id": 111,
+        "product_id": 391,
+        "quantity": 4,
+        "total_price": 138.04,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 95,
+        "customer_id": 139,
+        "product_id": 369,
+        "quantity": 6,
+        "total_price": 311.52,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 96,
+        "customer_id": 172,
+        "product_id": 328,
+        "quantity": 6,
+        "total_price": 215.38,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 97,
+        "customer_id": 197,
+        "product_id": 300,
+        "quantity": 4,
+        "total_price": 80.11,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 98,
+        "customer_id": 167,
+        "product_id": 380,
+        "quantity": 5,
+        "total_price": 392.61,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 99,
+        "customer_id": 182,
+        "product_id": 354,
+        "quantity": 1,
+        "total_price": 85.84,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 100,
+        "customer_id": 173,
+        "product_id": 354,
+        "quantity": 6,
+        "total_price": 303.06,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 101,
+        "customer_id": 108,
+        "product_id": 388,
+        "quantity": 7,
+        "total_price": 546.4,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 102,
+        "customer_id": 110,
+        "product_id": 316,
+        "quantity": 3,
+        "total_price": 120.83,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 103,
+        "customer_id": 172,
+        "product_id": 359,
+        "quantity": 8,
+        "total_price": 652.08,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 104,
+        "customer_id": 115,
+        "product_id": 360,
+        "quantity": 2,
+        "total_price": 160.31,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 105,
+        "customer_id": 115,
+        "product_id": 382,
+        "quantity": 6,
+        "total_price": 374.34,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 106,
+        "customer_id": 183,
+        "product_id": 360,
+        "quantity": 1,
+        "total_price": 96.75,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 107,
+        "customer_id": 166,
+        "product_id": 399,
+        "quantity": 4,
+        "total_price": 390.29,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 108,
+        "customer_id": 191,
+        "product_id": 398,
+        "quantity": 9,
+        "total_price": 126.32,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 109,
+        "customer_id": 163,
+        "product_id": 336,
+        "quantity": 3,
+        "total_price": 36.51,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 110,
+        "customer_id": 175,
+        "product_id": 300,
+        "quantity": 7,
+        "total_price": 538.07,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 111,
+        "customer_id": 130,
+        "product_id": 350,
+        "quantity": 3,
+        "total_price": 79.67,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 112,
+        "customer_id": 151,
+        "product_id": 312,
+        "quantity": 10,
+        "total_price": 393.77,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 113,
+        "customer_id": 153,
+        "product_id": 329,
+        "quantity": 5,
+        "total_price": 169.5,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 114,
+        "customer_id": 153,
+        "product_id": 374,
+        "quantity": 3,
+        "total_price": 223.18,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 115,
+        "customer_id": 192,
+        "product_id": 310,
+        "quantity": 7,
+        "total_price": 572.21,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 116,
+        "customer_id": 120,
+        "product_id": 320,
+        "quantity": 2,
+        "total_price": 112.23,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 117,
+        "customer_id": 182,
+        "product_id": 390,
+        "quantity": 7,
+        "total_price": 192.13,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 118,
+        "customer_id": 147,
+        "product_id": 357,
+        "quantity": 2,
+        "total_price": 70.27,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 119,
+        "customer_id": 161,
+        "product_id": 336,
+        "quantity": 6,
+        "total_price": 516.32,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 120,
+        "customer_id": 189,
+        "product_id": 391,
+        "quantity": 7,
+        "total_price": 151.05,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 121,
+        "customer_id": 126,
+        "product_id": 370,
+        "quantity": 6,
+        "total_price": 374.17,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 122,
+        "customer_id": 143,
+        "product_id": 362,
+        "quantity": 3,
+        "total_price": 96.68,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 123,
+        "customer_id": 143,
+        "product_id": 303,
+        "quantity": 4,
+        "total_price": 56.97,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 124,
+        "customer_id": 104,
+        "product_id": 353,
+        "quantity": 5,
+        "total_price": 251.49,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 125,
+        "customer_id": 192,
+        "product_id": 303,
+        "quantity": 4,
+        "total_price": 368.8,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 126,
+        "customer_id": 120,
+        "product_id": 312,
+        "quantity": 8,
+        "total_price": 591.59,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 127,
+        "customer_id": 170,
+        "product_id": 391,
+        "quantity": 5,
+        "total_price": 381.36,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 128,
+        "customer_id": 186,
+        "product_id": 340,
+        "quantity": 9,
+        "total_price": 205.91,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 129,
+        "customer_id": 199,
+        "product_id": 370,
+        "quantity": 6,
+        "total_price": 497.41,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 130,
+        "customer_id": 111,
+        "product_id": 338,
+        "quantity": 9,
+        "total_price": 312.5,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 131,
+        "customer_id": 200,
+        "product_id": 311,
+        "quantity": 4,
+        "total_price": 387.35,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 132,
+        "customer_id": 129,
+        "product_id": 300,
+        "quantity": 2,
+        "total_price": 88.07,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 133,
+        "customer_id": 199,
+        "product_id": 387,
+        "quantity": 5,
+        "total_price": 358.39,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 134,
+        "customer_id": 110,
+        "product_id": 344,
+        "quantity": 1,
+        "total_price": 18.35,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 135,
+        "customer_id": 194,
+        "product_id": 318,
+        "quantity": 2,
+        "total_price": 44.79,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 136,
+        "customer_id": 121,
+        "product_id": 331,
+        "quantity": 1,
+        "total_price": 11.36,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 137,
+        "customer_id": 187,
+        "product_id": 393,
+        "quantity": 7,
+        "total_price": 253.14,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 138,
+        "customer_id": 128,
+        "product_id": 376,
+        "quantity": 9,
+        "total_price": 289.05,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 139,
+        "customer_id": 171,
+        "product_id": 304,
+        "quantity": 8,
+        "total_price": 556.27,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 140,
+        "customer_id": 108,
+        "product_id": 388,
+        "quantity": 7,
+        "total_price": 474.6,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 141,
+        "customer_id": 144,
+        "product_id": 395,
+        "quantity": 3,
+        "total_price": 99.0,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 142,
+        "customer_id": 197,
+        "product_id": 325,
+        "quantity": 2,
+        "total_price": 28.64,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 143,
+        "customer_id": 163,
+        "product_id": 332,
+        "quantity": 8,
+        "total_price": 118.63,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 144,
+        "customer_id": 167,
+        "product_id": 331,
+        "quantity": 7,
+        "total_price": 598.71,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 145,
+        "customer_id": 188,
+        "product_id": 396,
+        "quantity": 8,
+        "total_price": 599.93,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 146,
+        "customer_id": 127,
+        "product_id": 338,
+        "quantity": 10,
+        "total_price": 392.69,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 147,
+        "customer_id": 188,
+        "product_id": 309,
+        "quantity": 5,
+        "total_price": 475.95,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 148,
+        "customer_id": 176,
+        "product_id": 400,
+        "quantity": 7,
+        "total_price": 695.01,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 149,
+        "customer_id": 133,
+        "product_id": 400,
+        "quantity": 1,
+        "total_price": 98.4,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 150,
+        "customer_id": 102,
+        "product_id": 326,
+        "quantity": 3,
+        "total_price": 70.3,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 151,
+        "customer_id": 198,
+        "product_id": 385,
+        "quantity": 4,
+        "total_price": 58.66,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 152,
+        "customer_id": 118,
+        "product_id": 309,
+        "quantity": 6,
+        "total_price": 348.3,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 153,
+        "customer_id": 123,
+        "product_id": 363,
+        "quantity": 2,
+        "total_price": 164.55,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 154,
+        "customer_id": 130,
+        "product_id": 326,
+        "quantity": 7,
+        "total_price": 521.43,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 155,
+        "customer_id": 191,
+        "product_id": 306,
+        "quantity": 4,
+        "total_price": 174.18,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 156,
+        "customer_id": 122,
+        "product_id": 304,
+        "quantity": 10,
+        "total_price": 748.95,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 157,
+        "customer_id": 198,
+        "product_id": 309,
+        "quantity": 3,
+        "total_price": 62.71,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 158,
+        "customer_id": 154,
+        "product_id": 386,
+        "quantity": 8,
+        "total_price": 146.84,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 159,
+        "customer_id": 191,
+        "product_id": 345,
+        "quantity": 6,
+        "total_price": 178.15,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 160,
+        "customer_id": 146,
+        "product_id": 337,
+        "quantity": 6,
+        "total_price": 495.45,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 161,
+        "customer_id": 141,
+        "product_id": 341,
+        "quantity": 10,
+        "total_price": 195.5,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 162,
+        "customer_id": 178,
+        "product_id": 310,
+        "quantity": 8,
+        "total_price": 228.25,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 163,
+        "customer_id": 177,
+        "product_id": 387,
+        "quantity": 9,
+        "total_price": 858.6,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 164,
+        "customer_id": 139,
+        "product_id": 351,
+        "quantity": 7,
+        "total_price": 78.49,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 165,
+        "customer_id": 118,
+        "product_id": 377,
+        "quantity": 6,
+        "total_price": 573.25,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 166,
+        "customer_id": 175,
+        "product_id": 397,
+        "quantity": 8,
+        "total_price": 236.79,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 167,
+        "customer_id": 170,
+        "product_id": 360,
+        "quantity": 10,
+        "total_price": 841.91,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 168,
+        "customer_id": 142,
+        "product_id": 339,
+        "quantity": 2,
+        "total_price": 58.47,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 169,
+        "customer_id": 117,
+        "product_id": 334,
+        "quantity": 1,
+        "total_price": 51.25,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 170,
+        "customer_id": 187,
+        "product_id": 385,
+        "quantity": 7,
+        "total_price": 268.48,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 171,
+        "customer_id": 171,
+        "product_id": 379,
+        "quantity": 7,
+        "total_price": 271.28,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 172,
+        "customer_id": 180,
+        "product_id": 354,
+        "quantity": 2,
+        "total_price": 168.15,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 173,
+        "customer_id": 143,
+        "product_id": 315,
+        "quantity": 9,
+        "total_price": 119.81,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 174,
+        "customer_id": 182,
+        "product_id": 376,
+        "quantity": 9,
+        "total_price": 175.75,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 175,
+        "customer_id": 133,
+        "product_id": 317,
+        "quantity": 4,
+        "total_price": 284.21,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 176,
+        "customer_id": 166,
+        "product_id": 307,
+        "quantity": 1,
+        "total_price": 26.2,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 177,
+        "customer_id": 153,
+        "product_id": 336,
+        "quantity": 1,
+        "total_price": 83.2,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 178,
+        "customer_id": 125,
+        "product_id": 324,
+        "quantity": 5,
+        "total_price": 373.06,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 179,
+        "customer_id": 100,
+        "product_id": 386,
+        "quantity": 1,
+        "total_price": 22.45,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 180,
+        "customer_id": 124,
+        "product_id": 311,
+        "quantity": 5,
+        "total_price": 256.55,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 181,
+        "customer_id": 107,
+        "product_id": 368,
+        "quantity": 7,
+        "total_price": 75.55,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 182,
+        "customer_id": 120,
+        "product_id": 397,
+        "quantity": 3,
+        "total_price": 34.44,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 183,
+        "customer_id": 131,
+        "product_id": 314,
+        "quantity": 4,
+        "total_price": 317.95,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 184,
+        "customer_id": 167,
+        "product_id": 381,
+        "quantity": 10,
+        "total_price": 858.15,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 185,
+        "customer_id": 193,
+        "product_id": 365,
+        "quantity": 9,
+        "total_price": 733.44,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 186,
+        "customer_id": 127,
+        "product_id": 322,
+        "quantity": 6,
+        "total_price": 164.87,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 187,
+        "customer_id": 153,
+        "product_id": 347,
+        "quantity": 4,
+        "total_price": 133.36,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 188,
+        "customer_id": 129,
+        "product_id": 321,
+        "quantity": 7,
+        "total_price": 657.27,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 189,
+        "customer_id": 137,
+        "product_id": 347,
+        "quantity": 7,
+        "total_price": 241.76,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 190,
+        "customer_id": 133,
+        "product_id": 355,
+        "quantity": 10,
+        "total_price": 650.77,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 191,
+        "customer_id": 159,
+        "product_id": 326,
+        "quantity": 3,
+        "total_price": 177.23,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 192,
+        "customer_id": 168,
+        "product_id": 352,
+        "quantity": 7,
+        "total_price": 374.86,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 193,
+        "customer_id": 142,
+        "product_id": 349,
+        "quantity": 6,
+        "total_price": 514.2,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 194,
+        "customer_id": 128,
+        "product_id": 361,
+        "quantity": 9,
+        "total_price": 286.41,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 195,
+        "customer_id": 105,
+        "product_id": 320,
+        "quantity": 3,
+        "total_price": 177.09,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 196,
+        "customer_id": 146,
+        "product_id": 394,
+        "quantity": 1,
+        "total_price": 82.05,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 197,
+        "customer_id": 187,
+        "product_id": 360,
+        "quantity": 10,
+        "total_price": 964.73,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 198,
+        "customer_id": 200,
+        "product_id": 375,
+        "quantity": 5,
+        "total_price": 317.56,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 199,
+        "customer_id": 197,
+        "product_id": 342,
+        "quantity": 2,
+        "total_price": 169.03,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 200,
+        "customer_id": 161,
+        "product_id": 335,
+        "quantity": 2,
+        "total_price": 162.65,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 201,
+        "customer_id": 130,
+        "product_id": 345,
+        "quantity": 6,
+        "total_price": 582.5,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 202,
+        "customer_id": 164,
+        "product_id": 379,
+        "quantity": 3,
+        "total_price": 207.95,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 203,
+        "customer_id": 115,
+        "product_id": 345,
+        "quantity": 1,
+        "total_price": 60.55,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 204,
+        "customer_id": 108,
+        "product_id": 337,
+        "quantity": 4,
+        "total_price": 62.16,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 205,
+        "customer_id": 114,
+        "product_id": 318,
+        "quantity": 10,
+        "total_price": 406.08,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 206,
+        "customer_id": 121,
+        "product_id": 329,
+        "quantity": 7,
+        "total_price": 176.92,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 207,
+        "customer_id": 142,
+        "product_id": 335,
+        "quantity": 8,
+        "total_price": 496.1,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 208,
+        "customer_id": 144,
+        "product_id": 370,
+        "quantity": 1,
+        "total_price": 11.24,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 209,
+        "customer_id": 169,
+        "product_id": 381,
+        "quantity": 5,
+        "total_price": 309.24,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 210,
+        "customer_id": 186,
+        "product_id": 370,
+        "quantity": 2,
+        "total_price": 115.82,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 211,
+        "customer_id": 187,
+        "product_id": 325,
+        "quantity": 10,
+        "total_price": 500.46,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 212,
+        "customer_id": 182,
+        "product_id": 328,
+        "quantity": 5,
+        "total_price": 268.71,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 213,
+        "customer_id": 120,
+        "product_id": 311,
+        "quantity": 2,
+        "total_price": 52.13,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 214,
+        "customer_id": 115,
+        "product_id": 339,
+        "quantity": 5,
+        "total_price": 338.97,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 215,
+        "customer_id": 146,
+        "product_id": 362,
+        "quantity": 5,
+        "total_price": 412.06,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 216,
+        "customer_id": 122,
+        "product_id": 309,
+        "quantity": 1,
+        "total_price": 81.66,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 217,
+        "customer_id": 114,
+        "product_id": 371,
+        "quantity": 6,
+        "total_price": 189.3,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 218,
+        "customer_id": 124,
+        "product_id": 364,
+        "quantity": 2,
+        "total_price": 147.21,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 219,
+        "customer_id": 183,
+        "product_id": 365,
+        "quantity": 9,
+        "total_price": 577.78,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 220,
+        "customer_id": 149,
+        "product_id": 361,
+        "quantity": 4,
+        "total_price": 112.57,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 221,
+        "customer_id": 195,
+        "product_id": 354,
+        "quantity": 4,
+        "total_price": 159.32,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 222,
+        "customer_id": 146,
+        "product_id": 349,
+        "quantity": 7,
+        "total_price": 464.01,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 223,
+        "customer_id": 107,
+        "product_id": 372,
+        "quantity": 5,
+        "total_price": 92.64,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 224,
+        "customer_id": 138,
+        "product_id": 345,
+        "quantity": 10,
+        "total_price": 740.94,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 225,
+        "customer_id": 121,
+        "product_id": 306,
+        "quantity": 9,
+        "total_price": 746.43,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 226,
+        "customer_id": 146,
+        "product_id": 365,
+        "quantity": 7,
+        "total_price": 662.39,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 227,
+        "customer_id": 152,
+        "product_id": 375,
+        "quantity": 2,
+        "total_price": 89.81,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 228,
+        "customer_id": 187,
+        "product_id": 349,
+        "quantity": 5,
+        "total_price": 83.69,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 229,
+        "customer_id": 194,
+        "product_id": 363,
+        "quantity": 6,
+        "total_price": 251.36,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 230,
+        "customer_id": 133,
+        "product_id": 366,
+        "quantity": 3,
+        "total_price": 36.38,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 231,
+        "customer_id": 192,
+        "product_id": 337,
+        "quantity": 3,
+        "total_price": 232.24,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 232,
+        "customer_id": 164,
+        "product_id": 368,
+        "quantity": 8,
+        "total_price": 189.73,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 233,
+        "customer_id": 156,
+        "product_id": 366,
+        "quantity": 7,
+        "total_price": 407.83,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 234,
+        "customer_id": 129,
+        "product_id": 350,
+        "quantity": 8,
+        "total_price": 729.01,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 235,
+        "customer_id": 193,
+        "product_id": 361,
+        "quantity": 10,
+        "total_price": 757.58,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 236,
+        "customer_id": 153,
+        "product_id": 397,
+        "quantity": 10,
+        "total_price": 980.09,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 237,
+        "customer_id": 150,
+        "product_id": 332,
+        "quantity": 5,
+        "total_price": 171.48,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 238,
+        "customer_id": 140,
+        "product_id": 332,
+        "quantity": 1,
+        "total_price": 58.96,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 239,
+        "customer_id": 173,
+        "product_id": 304,
+        "quantity": 3,
+        "total_price": 48.86,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 240,
+        "customer_id": 163,
+        "product_id": 398,
+        "quantity": 8,
+        "total_price": 782.45,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 241,
+        "customer_id": 119,
+        "product_id": 343,
+        "quantity": 10,
+        "total_price": 693.47,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 242,
+        "customer_id": 160,
+        "product_id": 359,
+        "quantity": 4,
+        "total_price": 261.63,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 243,
+        "customer_id": 195,
+        "product_id": 374,
+        "quantity": 10,
+        "total_price": 390.95,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 244,
+        "customer_id": 132,
+        "product_id": 389,
+        "quantity": 6,
+        "total_price": 213.92,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 245,
+        "customer_id": 125,
+        "product_id": 384,
+        "quantity": 5,
+        "total_price": 176.79,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 246,
+        "customer_id": 184,
+        "product_id": 321,
+        "quantity": 7,
+        "total_price": 625.58,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 247,
+        "customer_id": 157,
+        "product_id": 378,
+        "quantity": 10,
+        "total_price": 763.23,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 248,
+        "customer_id": 167,
+        "product_id": 354,
+        "quantity": 4,
+        "total_price": 66.23,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 249,
+        "customer_id": 112,
+        "product_id": 371,
+        "quantity": 5,
+        "total_price": 240.22,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 250,
+        "customer_id": 184,
+        "product_id": 369,
+        "quantity": 4,
+        "total_price": 60.22,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 251,
+        "customer_id": 149,
+        "product_id": 318,
+        "quantity": 10,
+        "total_price": 817.4,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 252,
+        "customer_id": 172,
+        "product_id": 375,
+        "quantity": 1,
+        "total_price": 84.91,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 253,
+        "customer_id": 189,
+        "product_id": 365,
+        "quantity": 2,
+        "total_price": 49.3,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 254,
+        "customer_id": 159,
+        "product_id": 367,
+        "quantity": 8,
+        "total_price": 80.34,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 255,
+        "customer_id": 129,
+        "product_id": 344,
+        "quantity": 1,
+        "total_price": 91.87,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 256,
+        "customer_id": 162,
+        "product_id": 303,
+        "quantity": 2,
+        "total_price": 51.8,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 257,
+        "customer_id": 194,
+        "product_id": 377,
+        "quantity": 4,
+        "total_price": 49.31,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 258,
+        "customer_id": 111,
+        "product_id": 320,
+        "quantity": 2,
+        "total_price": 24.73,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 259,
+        "customer_id": 169,
+        "product_id": 319,
+        "quantity": 9,
+        "total_price": 685.83,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 260,
+        "customer_id": 126,
+        "product_id": 332,
+        "quantity": 8,
+        "total_price": 378.58,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 261,
+        "customer_id": 126,
+        "product_id": 384,
+        "quantity": 7,
+        "total_price": 638.28,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 262,
+        "customer_id": 118,
+        "product_id": 378,
+        "quantity": 10,
+        "total_price": 548.04,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 263,
+        "customer_id": 187,
+        "product_id": 376,
+        "quantity": 4,
+        "total_price": 181.17,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 264,
+        "customer_id": 104,
+        "product_id": 334,
+        "quantity": 1,
+        "total_price": 40.02,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 265,
+        "customer_id": 100,
+        "product_id": 307,
+        "quantity": 4,
+        "total_price": 308.28,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 266,
+        "customer_id": 200,
+        "product_id": 364,
+        "quantity": 8,
+        "total_price": 647.1,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 267,
+        "customer_id": 174,
+        "product_id": 332,
+        "quantity": 3,
+        "total_price": 145.63,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 268,
+        "customer_id": 123,
+        "product_id": 315,
+        "quantity": 8,
+        "total_price": 460.9,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 269,
+        "customer_id": 107,
+        "product_id": 307,
+        "quantity": 8,
+        "total_price": 201.6,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 270,
+        "customer_id": 200,
+        "product_id": 380,
+        "quantity": 6,
+        "total_price": 344.94,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 271,
+        "customer_id": 102,
+        "product_id": 383,
+        "quantity": 7,
+        "total_price": 281.83,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 272,
+        "customer_id": 164,
+        "product_id": 361,
+        "quantity": 4,
+        "total_price": 369.5,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 273,
+        "customer_id": 102,
+        "product_id": 319,
+        "quantity": 10,
+        "total_price": 331.05,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 274,
+        "customer_id": 168,
+        "product_id": 336,
+        "quantity": 4,
+        "total_price": 100.07,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 275,
+        "customer_id": 128,
+        "product_id": 314,
+        "quantity": 1,
+        "total_price": 91.71,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 276,
+        "customer_id": 117,
+        "product_id": 312,
+        "quantity": 7,
+        "total_price": 621.89,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 277,
+        "customer_id": 112,
+        "product_id": 360,
+        "quantity": 1,
+        "total_price": 74.75,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 278,
+        "customer_id": 190,
+        "product_id": 395,
+        "quantity": 6,
+        "total_price": 317.07,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 279,
+        "customer_id": 136,
+        "product_id": 307,
+        "quantity": 7,
+        "total_price": 255.84,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 280,
+        "customer_id": 194,
+        "product_id": 357,
+        "quantity": 9,
+        "total_price": 796.91,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 281,
+        "customer_id": 160,
+        "product_id": 391,
+        "quantity": 5,
+        "total_price": 214.07,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 282,
+        "customer_id": 125,
+        "product_id": 389,
+        "quantity": 3,
+        "total_price": 141.29,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 283,
+        "customer_id": 191,
+        "product_id": 340,
+        "quantity": 9,
+        "total_price": 236.41,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 284,
+        "customer_id": 198,
+        "product_id": 383,
+        "quantity": 1,
+        "total_price": 13.26,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 285,
+        "customer_id": 100,
+        "product_id": 354,
+        "quantity": 8,
+        "total_price": 576.15,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 286,
+        "customer_id": 195,
+        "product_id": 362,
+        "quantity": 8,
+        "total_price": 632.28,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 287,
+        "customer_id": 140,
+        "product_id": 373,
+        "quantity": 3,
+        "total_price": 206.88,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 288,
+        "customer_id": 197,
+        "product_id": 356,
+        "quantity": 10,
+        "total_price": 105.28,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 289,
+        "customer_id": 102,
+        "product_id": 338,
+        "quantity": 3,
+        "total_price": 136.84,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 290,
+        "customer_id": 136,
+        "product_id": 377,
+        "quantity": 1,
+        "total_price": 52.02,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 291,
+        "customer_id": 159,
+        "product_id": 398,
+        "quantity": 10,
+        "total_price": 206.7,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 292,
+        "customer_id": 164,
+        "product_id": 344,
+        "quantity": 4,
+        "total_price": 227.72,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 293,
+        "customer_id": 195,
+        "product_id": 313,
+        "quantity": 5,
+        "total_price": 70.88,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 294,
+        "customer_id": 145,
+        "product_id": 335,
+        "quantity": 3,
+        "total_price": 217.29,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 295,
+        "customer_id": 132,
+        "product_id": 349,
+        "quantity": 7,
+        "total_price": 508.16,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 296,
+        "customer_id": 132,
+        "product_id": 321,
+        "quantity": 7,
+        "total_price": 544.19,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 297,
+        "customer_id": 163,
+        "product_id": 372,
+        "quantity": 10,
+        "total_price": 321.12,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 298,
+        "customer_id": 198,
+        "product_id": 339,
+        "quantity": 5,
+        "total_price": 444.82,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 299,
+        "customer_id": 142,
+        "product_id": 331,
+        "quantity": 7,
+        "total_price": 483.3,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 300,
+        "customer_id": 154,
+        "product_id": 372,
+        "quantity": 5,
+        "total_price": 322.2,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 301,
+        "customer_id": 101,
+        "product_id": 337,
+        "quantity": 8,
+        "total_price": 718.93,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 302,
+        "customer_id": 165,
+        "product_id": 345,
+        "quantity": 5,
+        "total_price": 275.67,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 303,
+        "customer_id": 142,
+        "product_id": 386,
+        "quantity": 8,
+        "total_price": 398.89,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 304,
+        "customer_id": 174,
+        "product_id": 313,
+        "quantity": 8,
+        "total_price": 493.31,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 305,
+        "customer_id": 195,
+        "product_id": 300,
+        "quantity": 6,
+        "total_price": 260.38,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 306,
+        "customer_id": 168,
+        "product_id": 365,
+        "quantity": 5,
+        "total_price": 405.99,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 307,
+        "customer_id": 183,
+        "product_id": 353,
+        "quantity": 6,
+        "total_price": 161.7,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 308,
+        "customer_id": 113,
+        "product_id": 395,
+        "quantity": 1,
+        "total_price": 18.73,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 309,
+        "customer_id": 155,
+        "product_id": 332,
+        "quantity": 8,
+        "total_price": 334.71,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 310,
+        "customer_id": 122,
+        "product_id": 373,
+        "quantity": 1,
+        "total_price": 87.27,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 311,
+        "customer_id": 142,
+        "product_id": 357,
+        "quantity": 1,
+        "total_price": 55.57,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 312,
+        "customer_id": 129,
+        "product_id": 356,
+        "quantity": 6,
+        "total_price": 224.71,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 313,
+        "customer_id": 166,
+        "product_id": 372,
+        "quantity": 8,
+        "total_price": 363.26,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 314,
+        "customer_id": 144,
+        "product_id": 373,
+        "quantity": 8,
+        "total_price": 315.44,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 315,
+        "customer_id": 115,
+        "product_id": 379,
+        "quantity": 5,
+        "total_price": 479.94,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 316,
+        "customer_id": 129,
+        "product_id": 304,
+        "quantity": 8,
+        "total_price": 83.95,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 317,
+        "customer_id": 157,
+        "product_id": 316,
+        "quantity": 9,
+        "total_price": 329.87,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 318,
+        "customer_id": 141,
+        "product_id": 348,
+        "quantity": 4,
+        "total_price": 299.61,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 319,
+        "customer_id": 119,
+        "product_id": 358,
+        "quantity": 5,
+        "total_price": 265.21,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 320,
+        "customer_id": 124,
+        "product_id": 379,
+        "quantity": 5,
+        "total_price": 125.71,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 321,
+        "customer_id": 160,
+        "product_id": 311,
+        "quantity": 8,
+        "total_price": 597.72,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 322,
+        "customer_id": 113,
+        "product_id": 353,
+        "quantity": 5,
+        "total_price": 292.03,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 323,
+        "customer_id": 134,
+        "product_id": 348,
+        "quantity": 7,
+        "total_price": 554.58,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 324,
+        "customer_id": 116,
+        "product_id": 385,
+        "quantity": 7,
+        "total_price": 537.25,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 325,
+        "customer_id": 130,
+        "product_id": 311,
+        "quantity": 4,
+        "total_price": 51.89,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 326,
+        "customer_id": 133,
+        "product_id": 386,
+        "quantity": 2,
+        "total_price": 188.41,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 327,
+        "customer_id": 165,
+        "product_id": 303,
+        "quantity": 6,
+        "total_price": 505.41,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 328,
+        "customer_id": 127,
+        "product_id": 370,
+        "quantity": 5,
+        "total_price": 441.43,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 329,
+        "customer_id": 119,
+        "product_id": 364,
+        "quantity": 3,
+        "total_price": 208.38,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 330,
+        "customer_id": 194,
+        "product_id": 354,
+        "quantity": 5,
+        "total_price": 102.74,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 331,
+        "customer_id": 172,
+        "product_id": 347,
+        "quantity": 6,
+        "total_price": 169.2,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 332,
+        "customer_id": 198,
+        "product_id": 375,
+        "quantity": 4,
+        "total_price": 103.95,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 333,
+        "customer_id": 179,
+        "product_id": 388,
+        "quantity": 7,
+        "total_price": 458.08,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 334,
+        "customer_id": 103,
+        "product_id": 305,
+        "quantity": 6,
+        "total_price": 160.01,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 335,
+        "customer_id": 127,
+        "product_id": 327,
+        "quantity": 4,
+        "total_price": 164.82,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 336,
+        "customer_id": 185,
+        "product_id": 356,
+        "quantity": 3,
+        "total_price": 244.14,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 337,
+        "customer_id": 143,
+        "product_id": 342,
+        "quantity": 3,
+        "total_price": 128.01,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 338,
+        "customer_id": 111,
+        "product_id": 301,
+        "quantity": 9,
+        "total_price": 157.43,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 339,
+        "customer_id": 166,
+        "product_id": 362,
+        "quantity": 4,
+        "total_price": 364.95,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 340,
+        "customer_id": 171,
+        "product_id": 349,
+        "quantity": 7,
+        "total_price": 531.66,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 341,
+        "customer_id": 175,
+        "product_id": 380,
+        "quantity": 8,
+        "total_price": 558.4,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 342,
+        "customer_id": 170,
+        "product_id": 317,
+        "quantity": 8,
+        "total_price": 641.6,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 343,
+        "customer_id": 132,
+        "product_id": 350,
+        "quantity": 5,
+        "total_price": 495.43,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 344,
+        "customer_id": 166,
+        "product_id": 381,
+        "quantity": 1,
+        "total_price": 36.32,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 345,
+        "customer_id": 101,
+        "product_id": 376,
+        "quantity": 6,
+        "total_price": 343.38,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 346,
+        "customer_id": 102,
+        "product_id": 307,
+        "quantity": 7,
+        "total_price": 693.93,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 347,
+        "customer_id": 181,
+        "product_id": 335,
+        "quantity": 10,
+        "total_price": 628.58,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 348,
+        "customer_id": 143,
+        "product_id": 377,
+        "quantity": 9,
+        "total_price": 751.45,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 349,
+        "customer_id": 197,
+        "product_id": 311,
+        "quantity": 10,
+        "total_price": 773.93,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 350,
+        "customer_id": 123,
+        "product_id": 300,
+        "quantity": 2,
+        "total_price": 71.94,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 351,
+        "customer_id": 159,
+        "product_id": 372,
+        "quantity": 3,
+        "total_price": 107.62,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 352,
+        "customer_id": 149,
+        "product_id": 366,
+        "quantity": 5,
+        "total_price": 474.48,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 353,
+        "customer_id": 113,
+        "product_id": 328,
+        "quantity": 4,
+        "total_price": 157.83,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 354,
+        "customer_id": 161,
+        "product_id": 366,
+        "quantity": 6,
+        "total_price": 373.38,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 355,
+        "customer_id": 144,
+        "product_id": 357,
+        "quantity": 7,
+        "total_price": 508.91,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 356,
+        "customer_id": 187,
+        "product_id": 347,
+        "quantity": 7,
+        "total_price": 352.29,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 357,
+        "customer_id": 121,
+        "product_id": 345,
+        "quantity": 4,
+        "total_price": 235.7,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 358,
+        "customer_id": 189,
+        "product_id": 325,
+        "quantity": 7,
+        "total_price": 679.25,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 359,
+        "customer_id": 139,
+        "product_id": 302,
+        "quantity": 1,
+        "total_price": 39.68,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 360,
+        "customer_id": 187,
+        "product_id": 308,
+        "quantity": 9,
+        "total_price": 541.92,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 361,
+        "customer_id": 139,
+        "product_id": 391,
+        "quantity": 9,
+        "total_price": 153.43,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 362,
+        "customer_id": 127,
+        "product_id": 384,
+        "quantity": 8,
+        "total_price": 546.76,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 363,
+        "customer_id": 195,
+        "product_id": 379,
+        "quantity": 9,
+        "total_price": 630.83,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 364,
+        "customer_id": 129,
+        "product_id": 400,
+        "quantity": 1,
+        "total_price": 74.9,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 365,
+        "customer_id": 197,
+        "product_id": 360,
+        "quantity": 8,
+        "total_price": 332.32,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 366,
+        "customer_id": 125,
+        "product_id": 317,
+        "quantity": 1,
+        "total_price": 43.68,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 367,
+        "customer_id": 100,
+        "product_id": 345,
+        "quantity": 1,
+        "total_price": 97.53,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 368,
+        "customer_id": 187,
+        "product_id": 302,
+        "quantity": 1,
+        "total_price": 60.32,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 369,
+        "customer_id": 149,
+        "product_id": 392,
+        "quantity": 9,
+        "total_price": 430.96,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 370,
+        "customer_id": 130,
+        "product_id": 304,
+        "quantity": 5,
+        "total_price": 311.88,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 371,
+        "customer_id": 100,
+        "product_id": 349,
+        "quantity": 5,
+        "total_price": 345.51,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 372,
+        "customer_id": 135,
+        "product_id": 348,
+        "quantity": 5,
+        "total_price": 76.44,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 373,
+        "customer_id": 185,
+        "product_id": 364,
+        "quantity": 2,
+        "total_price": 190.5,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 374,
+        "customer_id": 128,
+        "product_id": 330,
+        "quantity": 7,
+        "total_price": 306.43,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 375,
+        "customer_id": 172,
+        "product_id": 343,
+        "quantity": 9,
+        "total_price": 141.66,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 376,
+        "customer_id": 195,
+        "product_id": 334,
+        "quantity": 9,
+        "total_price": 836.96,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 377,
+        "customer_id": 151,
+        "product_id": 362,
+        "quantity": 3,
+        "total_price": 130.0,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 378,
+        "customer_id": 120,
+        "product_id": 350,
+        "quantity": 3,
+        "total_price": 70.38,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 379,
+        "customer_id": 195,
+        "product_id": 374,
+        "quantity": 6,
+        "total_price": 241.78,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 380,
+        "customer_id": 130,
+        "product_id": 363,
+        "quantity": 4,
+        "total_price": 298.64,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 381,
+        "customer_id": 149,
+        "product_id": 344,
+        "quantity": 8,
+        "total_price": 301.24,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 382,
+        "customer_id": 133,
+        "product_id": 351,
+        "quantity": 8,
+        "total_price": 414.18,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 383,
+        "customer_id": 169,
+        "product_id": 303,
+        "quantity": 10,
+        "total_price": 884.84,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 384,
+        "customer_id": 116,
+        "product_id": 307,
+        "quantity": 5,
+        "total_price": 88.76,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 385,
+        "customer_id": 186,
+        "product_id": 376,
+        "quantity": 10,
+        "total_price": 814.65,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 386,
+        "customer_id": 159,
+        "product_id": 383,
+        "quantity": 10,
+        "total_price": 943.14,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 387,
+        "customer_id": 197,
+        "product_id": 371,
+        "quantity": 2,
+        "total_price": 187.28,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 388,
+        "customer_id": 164,
+        "product_id": 336,
+        "quantity": 10,
+        "total_price": 807.8,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 389,
+        "customer_id": 193,
+        "product_id": 336,
+        "quantity": 1,
+        "total_price": 41.58,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 390,
+        "customer_id": 162,
+        "product_id": 327,
+        "quantity": 4,
+        "total_price": 81.83,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 391,
+        "customer_id": 183,
+        "product_id": 352,
+        "quantity": 9,
+        "total_price": 689.16,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 392,
+        "customer_id": 182,
+        "product_id": 323,
+        "quantity": 10,
+        "total_price": 652.59,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 393,
+        "customer_id": 151,
+        "product_id": 313,
+        "quantity": 1,
+        "total_price": 91.28,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 394,
+        "customer_id": 183,
+        "product_id": 395,
+        "quantity": 2,
+        "total_price": 126.71,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 395,
+        "customer_id": 127,
+        "product_id": 393,
+        "quantity": 2,
+        "total_price": 102.86,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 396,
+        "customer_id": 171,
+        "product_id": 308,
+        "quantity": 3,
+        "total_price": 205.94,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 397,
+        "customer_id": 167,
+        "product_id": 385,
+        "quantity": 2,
+        "total_price": 25.41,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 398,
+        "customer_id": 157,
+        "product_id": 321,
+        "quantity": 3,
+        "total_price": 160.79,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 399,
+        "customer_id": 140,
+        "product_id": 356,
+        "quantity": 6,
+        "total_price": 501.88,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 400,
+        "customer_id": 170,
+        "product_id": 323,
+        "quantity": 6,
+        "total_price": 511.14,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 401,
+        "customer_id": 162,
+        "product_id": 381,
+        "quantity": 8,
+        "total_price": 719.96,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 402,
+        "customer_id": 185,
+        "product_id": 334,
+        "quantity": 7,
+        "total_price": 388.63,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 403,
+        "customer_id": 145,
+        "product_id": 347,
+        "quantity": 2,
+        "total_price": 130.71,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 404,
+        "customer_id": 149,
+        "product_id": 369,
+        "quantity": 8,
+        "total_price": 306.34,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 405,
+        "customer_id": 155,
+        "product_id": 303,
+        "quantity": 10,
+        "total_price": 755.44,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 406,
+        "customer_id": 134,
+        "product_id": 384,
+        "quantity": 1,
+        "total_price": 39.16,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 407,
+        "customer_id": 174,
+        "product_id": 316,
+        "quantity": 8,
+        "total_price": 692.62,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 408,
+        "customer_id": 172,
+        "product_id": 388,
+        "quantity": 10,
+        "total_price": 869.29,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 409,
+        "customer_id": 136,
+        "product_id": 310,
+        "quantity": 7,
+        "total_price": 284.03,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 410,
+        "customer_id": 189,
+        "product_id": 322,
+        "quantity": 6,
+        "total_price": 403.08,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 411,
+        "customer_id": 155,
+        "product_id": 381,
+        "quantity": 6,
+        "total_price": 351.38,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 412,
+        "customer_id": 167,
+        "product_id": 360,
+        "quantity": 8,
+        "total_price": 483.75,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 413,
+        "customer_id": 157,
+        "product_id": 377,
+        "quantity": 2,
+        "total_price": 92.67,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 414,
+        "customer_id": 151,
+        "product_id": 312,
+        "quantity": 4,
+        "total_price": 139.43,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 415,
+        "customer_id": 108,
+        "product_id": 338,
+        "quantity": 10,
+        "total_price": 451.76,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 416,
+        "customer_id": 151,
+        "product_id": 377,
+        "quantity": 7,
+        "total_price": 377.24,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 417,
+        "customer_id": 113,
+        "product_id": 383,
+        "quantity": 7,
+        "total_price": 151.23,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 418,
+        "customer_id": 123,
+        "product_id": 389,
+        "quantity": 10,
+        "total_price": 200.43,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 419,
+        "customer_id": 141,
+        "product_id": 389,
+        "quantity": 7,
+        "total_price": 154.5,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 420,
+        "customer_id": 196,
+        "product_id": 324,
+        "quantity": 2,
+        "total_price": 103.26,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 421,
+        "customer_id": 115,
+        "product_id": 356,
+        "quantity": 6,
+        "total_price": 283.24,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 422,
+        "customer_id": 163,
+        "product_id": 340,
+        "quantity": 1,
+        "total_price": 51.34,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 423,
+        "customer_id": 128,
+        "product_id": 310,
+        "quantity": 3,
+        "total_price": 236.9,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 424,
+        "customer_id": 127,
+        "product_id": 350,
+        "quantity": 9,
+        "total_price": 195.05,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 425,
+        "customer_id": 133,
+        "product_id": 364,
+        "quantity": 8,
+        "total_price": 764.03,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 426,
+        "customer_id": 183,
+        "product_id": 308,
+        "quantity": 10,
+        "total_price": 197.38,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 427,
+        "customer_id": 113,
+        "product_id": 385,
+        "quantity": 7,
+        "total_price": 193.82,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 428,
+        "customer_id": 161,
+        "product_id": 360,
+        "quantity": 5,
+        "total_price": 362.24,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 429,
+        "customer_id": 110,
+        "product_id": 367,
+        "quantity": 7,
+        "total_price": 252.59,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 430,
+        "customer_id": 160,
+        "product_id": 310,
+        "quantity": 7,
+        "total_price": 294.7,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 431,
+        "customer_id": 149,
+        "product_id": 396,
+        "quantity": 9,
+        "total_price": 252.8,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 432,
+        "customer_id": 153,
+        "product_id": 394,
+        "quantity": 9,
+        "total_price": 646.01,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 433,
+        "customer_id": 126,
+        "product_id": 383,
+        "quantity": 6,
+        "total_price": 456.4,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 434,
+        "customer_id": 105,
+        "product_id": 364,
+        "quantity": 1,
+        "total_price": 87.59,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 435,
+        "customer_id": 141,
+        "product_id": 386,
+        "quantity": 1,
+        "total_price": 62.53,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 436,
+        "customer_id": 122,
+        "product_id": 322,
+        "quantity": 1,
+        "total_price": 19.28,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 437,
+        "customer_id": 102,
+        "product_id": 332,
+        "quantity": 7,
+        "total_price": 299.34,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 438,
+        "customer_id": 189,
+        "product_id": 302,
+        "quantity": 5,
+        "total_price": 271.23,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 439,
+        "customer_id": 164,
+        "product_id": 317,
+        "quantity": 3,
+        "total_price": 61.94,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 440,
+        "customer_id": 151,
+        "product_id": 367,
+        "quantity": 10,
+        "total_price": 836.78,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 441,
+        "customer_id": 130,
+        "product_id": 341,
+        "quantity": 9,
+        "total_price": 471.78,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 442,
+        "customer_id": 142,
+        "product_id": 363,
+        "quantity": 8,
+        "total_price": 767.16,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 443,
+        "customer_id": 155,
+        "product_id": 327,
+        "quantity": 2,
+        "total_price": 20.12,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 444,
+        "customer_id": 131,
+        "product_id": 332,
+        "quantity": 8,
+        "total_price": 410.94,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 445,
+        "customer_id": 193,
+        "product_id": 326,
+        "quantity": 10,
+        "total_price": 113.11,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 446,
+        "customer_id": 190,
+        "product_id": 322,
+        "quantity": 3,
+        "total_price": 77.44,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 447,
+        "customer_id": 157,
+        "product_id": 315,
+        "quantity": 8,
+        "total_price": 251.77,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 448,
+        "customer_id": 192,
+        "product_id": 313,
+        "quantity": 3,
+        "total_price": 280.33,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 449,
+        "customer_id": 135,
+        "product_id": 339,
+        "quantity": 1,
+        "total_price": 62.76,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 450,
+        "customer_id": 126,
+        "product_id": 390,
+        "quantity": 7,
+        "total_price": 212.73,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 451,
+        "customer_id": 111,
+        "product_id": 350,
+        "quantity": 7,
+        "total_price": 428.06,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 452,
+        "customer_id": 111,
+        "product_id": 373,
+        "quantity": 10,
+        "total_price": 220.21,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 453,
+        "customer_id": 190,
+        "product_id": 370,
+        "quantity": 1,
+        "total_price": 57.93,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 454,
+        "customer_id": 156,
+        "product_id": 309,
+        "quantity": 1,
+        "total_price": 89.34,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 455,
+        "customer_id": 172,
+        "product_id": 379,
+        "quantity": 2,
+        "total_price": 184.37,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 456,
+        "customer_id": 183,
+        "product_id": 302,
+        "quantity": 1,
+        "total_price": 14.27,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 457,
+        "customer_id": 150,
+        "product_id": 369,
+        "quantity": 8,
+        "total_price": 539.97,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 458,
+        "customer_id": 183,
+        "product_id": 315,
+        "quantity": 6,
+        "total_price": 574.76,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 459,
+        "customer_id": 125,
+        "product_id": 303,
+        "quantity": 4,
+        "total_price": 298.79,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 460,
+        "customer_id": 183,
+        "product_id": 379,
+        "quantity": 4,
+        "total_price": 54.82,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 461,
+        "customer_id": 118,
+        "product_id": 383,
+        "quantity": 7,
+        "total_price": 107.82,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 462,
+        "customer_id": 103,
+        "product_id": 324,
+        "quantity": 5,
+        "total_price": 181.25,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 463,
+        "customer_id": 189,
+        "product_id": 306,
+        "quantity": 7,
+        "total_price": 463.39,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 464,
+        "customer_id": 104,
+        "product_id": 352,
+        "quantity": 8,
+        "total_price": 527.74,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 465,
+        "customer_id": 170,
+        "product_id": 393,
+        "quantity": 8,
+        "total_price": 308.35,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 466,
+        "customer_id": 135,
+        "product_id": 338,
+        "quantity": 4,
+        "total_price": 208.76,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 467,
+        "customer_id": 161,
+        "product_id": 373,
+        "quantity": 8,
+        "total_price": 648.83,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 468,
+        "customer_id": 105,
+        "product_id": 368,
+        "quantity": 1,
+        "total_price": 58.34,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 469,
+        "customer_id": 114,
+        "product_id": 400,
+        "quantity": 1,
+        "total_price": 78.67,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 470,
+        "customer_id": 142,
+        "product_id": 357,
+        "quantity": 5,
+        "total_price": 342.03,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 471,
+        "customer_id": 109,
+        "product_id": 316,
+        "quantity": 10,
+        "total_price": 865.17,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 472,
+        "customer_id": 134,
+        "product_id": 393,
+        "quantity": 7,
+        "total_price": 605.94,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 473,
+        "customer_id": 128,
+        "product_id": 363,
+        "quantity": 6,
+        "total_price": 528.63,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 474,
+        "customer_id": 114,
+        "product_id": 302,
+        "quantity": 4,
+        "total_price": 389.75,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 475,
+        "customer_id": 182,
+        "product_id": 315,
+        "quantity": 9,
+        "total_price": 488.87,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 476,
+        "customer_id": 172,
+        "product_id": 373,
+        "quantity": 7,
+        "total_price": 210.17,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 477,
+        "customer_id": 151,
+        "product_id": 371,
+        "quantity": 3,
+        "total_price": 279.35,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 478,
+        "customer_id": 160,
+        "product_id": 302,
+        "quantity": 2,
+        "total_price": 74.93,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 479,
+        "customer_id": 100,
+        "product_id": 399,
+        "quantity": 1,
+        "total_price": 92.47,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 480,
+        "customer_id": 140,
+        "product_id": 359,
+        "quantity": 1,
+        "total_price": 96.56,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 481,
+        "customer_id": 194,
+        "product_id": 400,
+        "quantity": 1,
+        "total_price": 46.95,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 482,
+        "customer_id": 136,
+        "product_id": 329,
+        "quantity": 8,
+        "total_price": 264.05,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 483,
+        "customer_id": 112,
+        "product_id": 350,
+        "quantity": 4,
+        "total_price": 367.72,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 484,
+        "customer_id": 102,
+        "product_id": 302,
+        "quantity": 10,
+        "total_price": 117.87,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 485,
+        "customer_id": 147,
+        "product_id": 389,
+        "quantity": 2,
+        "total_price": 156.12,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 486,
+        "customer_id": 122,
+        "product_id": 330,
+        "quantity": 10,
+        "total_price": 127.35,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 487,
+        "customer_id": 104,
+        "product_id": 322,
+        "quantity": 8,
+        "total_price": 324.08,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 488,
+        "customer_id": 162,
+        "product_id": 363,
+        "quantity": 7,
+        "total_price": 432.85,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 489,
+        "customer_id": 200,
+        "product_id": 370,
+        "quantity": 9,
+        "total_price": 394.81,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 490,
+        "customer_id": 123,
+        "product_id": 359,
+        "quantity": 5,
+        "total_price": 374.65,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 491,
+        "customer_id": 104,
+        "product_id": 337,
+        "quantity": 10,
+        "total_price": 834.49,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 492,
+        "customer_id": 114,
+        "product_id": 381,
+        "quantity": 10,
+        "total_price": 544.59,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 493,
+        "customer_id": 167,
+        "product_id": 341,
+        "quantity": 3,
+        "total_price": 256.76,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 494,
+        "customer_id": 177,
+        "product_id": 393,
+        "quantity": 4,
+        "total_price": 370.39,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 495,
+        "customer_id": 143,
+        "product_id": 374,
+        "quantity": 4,
+        "total_price": 85.34,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 496,
+        "customer_id": 126,
+        "product_id": 325,
+        "quantity": 1,
+        "total_price": 97.34,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 497,
+        "customer_id": 122,
+        "product_id": 382,
+        "quantity": 5,
+        "total_price": 211.41,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 498,
+        "customer_id": 180,
+        "product_id": 386,
+        "quantity": 4,
+        "total_price": 286.4,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 499,
+        "customer_id": 118,
+        "product_id": 332,
+        "quantity": 10,
+        "total_price": 870.76,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 500,
+        "customer_id": 175,
+        "product_id": 383,
+        "quantity": 9,
+        "total_price": 238.73,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 501,
+        "customer_id": 114,
+        "product_id": 354,
+        "quantity": 10,
+        "total_price": 361.48,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 502,
+        "customer_id": 155,
+        "product_id": 321,
+        "quantity": 6,
+        "total_price": 346.64,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 503,
+        "customer_id": 129,
+        "product_id": 362,
+        "quantity": 5,
+        "total_price": 156.79,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 504,
+        "customer_id": 160,
+        "product_id": 389,
+        "quantity": 8,
+        "total_price": 222.4,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 505,
+        "customer_id": 113,
+        "product_id": 332,
+        "quantity": 1,
+        "total_price": 91.93,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 506,
+        "customer_id": 192,
+        "product_id": 334,
+        "quantity": 9,
+        "total_price": 676.16,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 507,
+        "customer_id": 149,
+        "product_id": 353,
+        "quantity": 5,
+        "total_price": 195.82,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 508,
+        "customer_id": 142,
+        "product_id": 330,
+        "quantity": 9,
+        "total_price": 865.92,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 509,
+        "customer_id": 137,
+        "product_id": 348,
+        "quantity": 2,
+        "total_price": 78.73,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 510,
+        "customer_id": 169,
+        "product_id": 314,
+        "quantity": 5,
+        "total_price": 92.79,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 511,
+        "customer_id": 116,
+        "product_id": 300,
+        "quantity": 3,
+        "total_price": 230.38,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 512,
+        "customer_id": 122,
+        "product_id": 373,
+        "quantity": 1,
+        "total_price": 73.82,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 513,
+        "customer_id": 124,
+        "product_id": 395,
+        "quantity": 5,
+        "total_price": 378.43,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 514,
+        "customer_id": 125,
+        "product_id": 357,
+        "quantity": 1,
+        "total_price": 69.43,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 515,
+        "customer_id": 142,
+        "product_id": 325,
+        "quantity": 1,
+        "total_price": 97.54,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 516,
+        "customer_id": 126,
+        "product_id": 399,
+        "quantity": 1,
+        "total_price": 29.95,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 517,
+        "customer_id": 175,
+        "product_id": 375,
+        "quantity": 1,
+        "total_price": 21.54,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 518,
+        "customer_id": 163,
+        "product_id": 351,
+        "quantity": 6,
+        "total_price": 165.32,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 519,
+        "customer_id": 192,
+        "product_id": 338,
+        "quantity": 5,
+        "total_price": 461.19,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 520,
+        "customer_id": 188,
+        "product_id": 302,
+        "quantity": 1,
+        "total_price": 16.67,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 521,
+        "customer_id": 156,
+        "product_id": 390,
+        "quantity": 6,
+        "total_price": 200.6,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 522,
+        "customer_id": 154,
+        "product_id": 396,
+        "quantity": 3,
+        "total_price": 270.2,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 523,
+        "customer_id": 125,
+        "product_id": 308,
+        "quantity": 7,
+        "total_price": 461.15,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 524,
+        "customer_id": 162,
+        "product_id": 379,
+        "quantity": 5,
+        "total_price": 299.85,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 525,
+        "customer_id": 101,
+        "product_id": 308,
+        "quantity": 7,
+        "total_price": 422.07,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 526,
+        "customer_id": 173,
+        "product_id": 378,
+        "quantity": 9,
+        "total_price": 847.85,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 527,
+        "customer_id": 130,
+        "product_id": 360,
+        "quantity": 8,
+        "total_price": 373.2,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 528,
+        "customer_id": 172,
+        "product_id": 382,
+        "quantity": 2,
+        "total_price": 121.64,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 529,
+        "customer_id": 150,
+        "product_id": 342,
+        "quantity": 5,
+        "total_price": 255.86,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 530,
+        "customer_id": 199,
+        "product_id": 341,
+        "quantity": 4,
+        "total_price": 176.58,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 531,
+        "customer_id": 195,
+        "product_id": 337,
+        "quantity": 8,
+        "total_price": 643.54,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 532,
+        "customer_id": 130,
+        "product_id": 339,
+        "quantity": 5,
+        "total_price": 59.83,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 533,
+        "customer_id": 156,
+        "product_id": 305,
+        "quantity": 4,
+        "total_price": 63.73,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 534,
+        "customer_id": 102,
+        "product_id": 389,
+        "quantity": 3,
+        "total_price": 106.13,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 535,
+        "customer_id": 102,
+        "product_id": 317,
+        "quantity": 7,
+        "total_price": 316.27,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 536,
+        "customer_id": 198,
+        "product_id": 326,
+        "quantity": 8,
+        "total_price": 361.8,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 537,
+        "customer_id": 123,
+        "product_id": 376,
+        "quantity": 7,
+        "total_price": 613.93,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 538,
+        "customer_id": 163,
+        "product_id": 334,
+        "quantity": 8,
+        "total_price": 324.15,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 539,
+        "customer_id": 100,
+        "product_id": 324,
+        "quantity": 7,
+        "total_price": 307.9,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 540,
+        "customer_id": 161,
+        "product_id": 399,
+        "quantity": 8,
+        "total_price": 423.09,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 541,
+        "customer_id": 197,
+        "product_id": 370,
+        "quantity": 2,
+        "total_price": 146.4,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 542,
+        "customer_id": 153,
+        "product_id": 319,
+        "quantity": 4,
+        "total_price": 354.83,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 543,
+        "customer_id": 177,
+        "product_id": 378,
+        "quantity": 7,
+        "total_price": 179.35,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 544,
+        "customer_id": 112,
+        "product_id": 399,
+        "quantity": 2,
+        "total_price": 151.24,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 545,
+        "customer_id": 198,
+        "product_id": 374,
+        "quantity": 10,
+        "total_price": 187.0,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 546,
+        "customer_id": 116,
+        "product_id": 373,
+        "quantity": 7,
+        "total_price": 619.49,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 547,
+        "customer_id": 146,
+        "product_id": 322,
+        "quantity": 2,
+        "total_price": 48.89,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 548,
+        "customer_id": 115,
+        "product_id": 328,
+        "quantity": 10,
+        "total_price": 602.82,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 549,
+        "customer_id": 133,
+        "product_id": 344,
+        "quantity": 3,
+        "total_price": 40.49,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 550,
+        "customer_id": 127,
+        "product_id": 366,
+        "quantity": 5,
+        "total_price": 52.89,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 551,
+        "customer_id": 190,
+        "product_id": 327,
+        "quantity": 9,
+        "total_price": 431.93,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 552,
+        "customer_id": 156,
+        "product_id": 388,
+        "quantity": 3,
+        "total_price": 199.74,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 553,
+        "customer_id": 160,
+        "product_id": 377,
+        "quantity": 9,
+        "total_price": 293.63,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 554,
+        "customer_id": 189,
+        "product_id": 389,
+        "quantity": 10,
+        "total_price": 756.22,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 555,
+        "customer_id": 177,
+        "product_id": 336,
+        "quantity": 9,
+        "total_price": 866.0,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 556,
+        "customer_id": 126,
+        "product_id": 319,
+        "quantity": 8,
+        "total_price": 615.91,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 557,
+        "customer_id": 141,
+        "product_id": 364,
+        "quantity": 4,
+        "total_price": 219.31,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 558,
+        "customer_id": 111,
+        "product_id": 356,
+        "quantity": 10,
+        "total_price": 301.3,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 559,
+        "customer_id": 155,
+        "product_id": 365,
+        "quantity": 7,
+        "total_price": 501.4,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 560,
+        "customer_id": 135,
+        "product_id": 395,
+        "quantity": 10,
+        "total_price": 605.52,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 561,
+        "customer_id": 117,
+        "product_id": 389,
+        "quantity": 4,
+        "total_price": 88.87,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 562,
+        "customer_id": 127,
+        "product_id": 322,
+        "quantity": 6,
+        "total_price": 584.22,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 563,
+        "customer_id": 111,
+        "product_id": 389,
+        "quantity": 10,
+        "total_price": 788.85,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 564,
+        "customer_id": 178,
+        "product_id": 331,
+        "quantity": 5,
+        "total_price": 438.78,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 565,
+        "customer_id": 101,
+        "product_id": 313,
+        "quantity": 5,
+        "total_price": 275.6,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 566,
+        "customer_id": 128,
+        "product_id": 349,
+        "quantity": 2,
+        "total_price": 151.93,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 567,
+        "customer_id": 177,
+        "product_id": 336,
+        "quantity": 2,
+        "total_price": 95.75,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 568,
+        "customer_id": 104,
+        "product_id": 305,
+        "quantity": 3,
+        "total_price": 157.6,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 569,
+        "customer_id": 162,
+        "product_id": 316,
+        "quantity": 9,
+        "total_price": 413.66,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 570,
+        "customer_id": 130,
+        "product_id": 316,
+        "quantity": 7,
+        "total_price": 349.84,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 571,
+        "customer_id": 137,
+        "product_id": 337,
+        "quantity": 1,
+        "total_price": 99.47,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 572,
+        "customer_id": 113,
+        "product_id": 374,
+        "quantity": 10,
+        "total_price": 488.39,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 573,
+        "customer_id": 186,
+        "product_id": 302,
+        "quantity": 10,
+        "total_price": 109.15,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 574,
+        "customer_id": 120,
+        "product_id": 342,
+        "quantity": 3,
+        "total_price": 168.0,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 575,
+        "customer_id": 163,
+        "product_id": 311,
+        "quantity": 7,
+        "total_price": 296.99,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 576,
+        "customer_id": 124,
+        "product_id": 301,
+        "quantity": 1,
+        "total_price": 39.61,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 577,
+        "customer_id": 146,
+        "product_id": 337,
+        "quantity": 3,
+        "total_price": 74.46,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 578,
+        "customer_id": 147,
+        "product_id": 349,
+        "quantity": 6,
+        "total_price": 66.97,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 579,
+        "customer_id": 127,
+        "product_id": 392,
+        "quantity": 7,
+        "total_price": 424.63,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 580,
+        "customer_id": 200,
+        "product_id": 356,
+        "quantity": 8,
+        "total_price": 89.62,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 581,
+        "customer_id": 174,
+        "product_id": 385,
+        "quantity": 5,
+        "total_price": 241.93,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 582,
+        "customer_id": 177,
+        "product_id": 354,
+        "quantity": 6,
+        "total_price": 456.3,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 583,
+        "customer_id": 146,
+        "product_id": 349,
+        "quantity": 9,
+        "total_price": 851.62,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 584,
+        "customer_id": 151,
+        "product_id": 308,
+        "quantity": 4,
+        "total_price": 313.74,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 585,
+        "customer_id": 158,
+        "product_id": 307,
+        "quantity": 6,
+        "total_price": 478.34,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 586,
+        "customer_id": 109,
+        "product_id": 386,
+        "quantity": 6,
+        "total_price": 319.64,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 587,
+        "customer_id": 119,
+        "product_id": 317,
+        "quantity": 10,
+        "total_price": 795.59,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 588,
+        "customer_id": 139,
+        "product_id": 345,
+        "quantity": 1,
+        "total_price": 58.86,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 589,
+        "customer_id": 107,
+        "product_id": 394,
+        "quantity": 5,
+        "total_price": 472.72,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 590,
+        "customer_id": 143,
+        "product_id": 345,
+        "quantity": 8,
+        "total_price": 595.71,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 591,
+        "customer_id": 163,
+        "product_id": 337,
+        "quantity": 5,
+        "total_price": 379.83,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 592,
+        "customer_id": 128,
+        "product_id": 389,
+        "quantity": 6,
+        "total_price": 173.94,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 593,
+        "customer_id": 163,
+        "product_id": 323,
+        "quantity": 7,
+        "total_price": 208.38,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 594,
+        "customer_id": 190,
+        "product_id": 327,
+        "quantity": 1,
+        "total_price": 78.39,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 595,
+        "customer_id": 170,
+        "product_id": 313,
+        "quantity": 9,
+        "total_price": 332.95,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 596,
+        "customer_id": 147,
+        "product_id": 342,
+        "quantity": 3,
+        "total_price": 186.69,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 597,
+        "customer_id": 194,
+        "product_id": 361,
+        "quantity": 10,
+        "total_price": 475.78,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 598,
+        "customer_id": 163,
+        "product_id": 336,
+        "quantity": 5,
+        "total_price": 123.8,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 599,
+        "customer_id": 122,
+        "product_id": 316,
+        "quantity": 5,
+        "total_price": 248.7,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 600,
+        "customer_id": 126,
+        "product_id": 332,
+        "quantity": 7,
+        "total_price": 484.64,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 601,
+        "customer_id": 110,
+        "product_id": 392,
+        "quantity": 9,
+        "total_price": 314.22,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 602,
+        "customer_id": 117,
+        "product_id": 390,
+        "quantity": 7,
+        "total_price": 563.06,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 603,
+        "customer_id": 178,
+        "product_id": 315,
+        "quantity": 4,
+        "total_price": 115.09,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 604,
+        "customer_id": 147,
+        "product_id": 383,
+        "quantity": 3,
+        "total_price": 166.86,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 605,
+        "customer_id": 156,
+        "product_id": 396,
+        "quantity": 10,
+        "total_price": 465.45,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 606,
+        "customer_id": 153,
+        "product_id": 328,
+        "quantity": 1,
+        "total_price": 69.37,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 607,
+        "customer_id": 161,
+        "product_id": 310,
+        "quantity": 7,
+        "total_price": 697.29,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 608,
+        "customer_id": 164,
+        "product_id": 314,
+        "quantity": 3,
+        "total_price": 48.39,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 609,
+        "customer_id": 105,
+        "product_id": 349,
+        "quantity": 3,
+        "total_price": 297.95,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 610,
+        "customer_id": 136,
+        "product_id": 312,
+        "quantity": 9,
+        "total_price": 854.38,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 611,
+        "customer_id": 159,
+        "product_id": 333,
+        "quantity": 10,
+        "total_price": 975.45,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 612,
+        "customer_id": 200,
+        "product_id": 343,
+        "quantity": 5,
+        "total_price": 398.34,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 613,
+        "customer_id": 185,
+        "product_id": 360,
+        "quantity": 6,
+        "total_price": 241.28,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 614,
+        "customer_id": 163,
+        "product_id": 374,
+        "quantity": 6,
+        "total_price": 143.88,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 615,
+        "customer_id": 123,
+        "product_id": 388,
+        "quantity": 8,
+        "total_price": 218.72,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 616,
+        "customer_id": 185,
+        "product_id": 363,
+        "quantity": 10,
+        "total_price": 748.14,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 617,
+        "customer_id": 124,
+        "product_id": 394,
+        "quantity": 10,
+        "total_price": 206.21,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 618,
+        "customer_id": 159,
+        "product_id": 319,
+        "quantity": 8,
+        "total_price": 578.36,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 619,
+        "customer_id": 137,
+        "product_id": 390,
+        "quantity": 4,
+        "total_price": 67.13,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 620,
+        "customer_id": 110,
+        "product_id": 375,
+        "quantity": 3,
+        "total_price": 92.62,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 621,
+        "customer_id": 130,
+        "product_id": 391,
+        "quantity": 9,
+        "total_price": 237.15,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 622,
+        "customer_id": 137,
+        "product_id": 388,
+        "quantity": 6,
+        "total_price": 265.34,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 623,
+        "customer_id": 115,
+        "product_id": 333,
+        "quantity": 10,
+        "total_price": 229.57,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 624,
+        "customer_id": 157,
+        "product_id": 390,
+        "quantity": 3,
+        "total_price": 104.42,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 625,
+        "customer_id": 175,
+        "product_id": 343,
+        "quantity": 7,
+        "total_price": 602.32,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 626,
+        "customer_id": 124,
+        "product_id": 359,
+        "quantity": 3,
+        "total_price": 54.66,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 627,
+        "customer_id": 159,
+        "product_id": 387,
+        "quantity": 3,
+        "total_price": 69.7,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 628,
+        "customer_id": 117,
+        "product_id": 354,
+        "quantity": 5,
+        "total_price": 383.45,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 629,
+        "customer_id": 178,
+        "product_id": 312,
+        "quantity": 7,
+        "total_price": 383.18,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 630,
+        "customer_id": 133,
+        "product_id": 312,
+        "quantity": 7,
+        "total_price": 426.11,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 631,
+        "customer_id": 125,
+        "product_id": 369,
+        "quantity": 6,
+        "total_price": 379.27,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 632,
+        "customer_id": 146,
+        "product_id": 316,
+        "quantity": 7,
+        "total_price": 680.21,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 633,
+        "customer_id": 132,
+        "product_id": 353,
+        "quantity": 4,
+        "total_price": 271.19,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 634,
+        "customer_id": 161,
+        "product_id": 374,
+        "quantity": 2,
+        "total_price": 91.1,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 635,
+        "customer_id": 196,
+        "product_id": 377,
+        "quantity": 8,
+        "total_price": 500.52,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 636,
+        "customer_id": 103,
+        "product_id": 323,
+        "quantity": 2,
+        "total_price": 126.58,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 637,
+        "customer_id": 159,
+        "product_id": 310,
+        "quantity": 3,
+        "total_price": 231.14,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 638,
+        "customer_id": 190,
+        "product_id": 383,
+        "quantity": 5,
+        "total_price": 416.24,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 639,
+        "customer_id": 167,
+        "product_id": 377,
+        "quantity": 9,
+        "total_price": 318.94,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 640,
+        "customer_id": 177,
+        "product_id": 361,
+        "quantity": 1,
+        "total_price": 77.04,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 641,
+        "customer_id": 199,
+        "product_id": 365,
+        "quantity": 2,
+        "total_price": 138.28,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 642,
+        "customer_id": 148,
+        "product_id": 367,
+        "quantity": 1,
+        "total_price": 89.56,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 643,
+        "customer_id": 132,
+        "product_id": 313,
+        "quantity": 2,
+        "total_price": 74.1,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 644,
+        "customer_id": 112,
+        "product_id": 377,
+        "quantity": 3,
+        "total_price": 255.08,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 645,
+        "customer_id": 109,
+        "product_id": 325,
+        "quantity": 10,
+        "total_price": 454.86,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 646,
+        "customer_id": 152,
+        "product_id": 311,
+        "quantity": 4,
+        "total_price": 353.27,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 647,
+        "customer_id": 140,
+        "product_id": 333,
+        "quantity": 9,
+        "total_price": 323.94,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 648,
+        "customer_id": 149,
+        "product_id": 342,
+        "quantity": 8,
+        "total_price": 153.16,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 649,
+        "customer_id": 140,
+        "product_id": 392,
+        "quantity": 10,
+        "total_price": 105.35,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 650,
+        "customer_id": 151,
+        "product_id": 374,
+        "quantity": 5,
+        "total_price": 493.94,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 651,
+        "customer_id": 153,
+        "product_id": 360,
+        "quantity": 1,
+        "total_price": 21.05,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 652,
+        "customer_id": 135,
+        "product_id": 377,
+        "quantity": 5,
+        "total_price": 99.77,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 653,
+        "customer_id": 128,
+        "product_id": 344,
+        "quantity": 9,
+        "total_price": 627.17,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 654,
+        "customer_id": 185,
+        "product_id": 352,
+        "quantity": 4,
+        "total_price": 257.99,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 655,
+        "customer_id": 118,
+        "product_id": 386,
+        "quantity": 8,
+        "total_price": 596.74,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 656,
+        "customer_id": 167,
+        "product_id": 311,
+        "quantity": 5,
+        "total_price": 127.15,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 657,
+        "customer_id": 161,
+        "product_id": 374,
+        "quantity": 6,
+        "total_price": 549.13,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 658,
+        "customer_id": 198,
+        "product_id": 324,
+        "quantity": 5,
+        "total_price": 54.2,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 659,
+        "customer_id": 108,
+        "product_id": 323,
+        "quantity": 8,
+        "total_price": 438.5,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 660,
+        "customer_id": 131,
+        "product_id": 332,
+        "quantity": 6,
+        "total_price": 501.43,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 661,
+        "customer_id": 183,
+        "product_id": 358,
+        "quantity": 1,
+        "total_price": 21.76,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 662,
+        "customer_id": 143,
+        "product_id": 344,
+        "quantity": 4,
+        "total_price": 149.08,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 663,
+        "customer_id": 117,
+        "product_id": 368,
+        "quantity": 2,
+        "total_price": 28.26,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 664,
+        "customer_id": 100,
+        "product_id": 306,
+        "quantity": 7,
+        "total_price": 650.43,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 665,
+        "customer_id": 153,
+        "product_id": 383,
+        "quantity": 7,
+        "total_price": 676.67,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 666,
+        "customer_id": 137,
+        "product_id": 390,
+        "quantity": 4,
+        "total_price": 122.86,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 667,
+        "customer_id": 121,
+        "product_id": 362,
+        "quantity": 4,
+        "total_price": 306.61,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 668,
+        "customer_id": 102,
+        "product_id": 347,
+        "quantity": 10,
+        "total_price": 299.99,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 669,
+        "customer_id": 180,
+        "product_id": 382,
+        "quantity": 7,
+        "total_price": 560.37,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 670,
+        "customer_id": 115,
+        "product_id": 316,
+        "quantity": 2,
+        "total_price": 157.31,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 671,
+        "customer_id": 133,
+        "product_id": 317,
+        "quantity": 7,
+        "total_price": 428.32,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 672,
+        "customer_id": 199,
+        "product_id": 341,
+        "quantity": 10,
+        "total_price": 118.33,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 673,
+        "customer_id": 200,
+        "product_id": 396,
+        "quantity": 6,
+        "total_price": 297.53,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 674,
+        "customer_id": 153,
+        "product_id": 395,
+        "quantity": 10,
+        "total_price": 694.16,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 675,
+        "customer_id": 182,
+        "product_id": 309,
+        "quantity": 6,
+        "total_price": 463.02,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 676,
+        "customer_id": 117,
+        "product_id": 305,
+        "quantity": 8,
+        "total_price": 106.36,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 677,
+        "customer_id": 101,
+        "product_id": 337,
+        "quantity": 4,
+        "total_price": 160.39,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 678,
+        "customer_id": 154,
+        "product_id": 368,
+        "quantity": 8,
+        "total_price": 734.93,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 679,
+        "customer_id": 142,
+        "product_id": 326,
+        "quantity": 6,
+        "total_price": 452.36,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 680,
+        "customer_id": 161,
+        "product_id": 388,
+        "quantity": 9,
+        "total_price": 133.79,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 681,
+        "customer_id": 185,
+        "product_id": 317,
+        "quantity": 2,
+        "total_price": 47.26,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 682,
+        "customer_id": 198,
+        "product_id": 338,
+        "quantity": 7,
+        "total_price": 500.2,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 683,
+        "customer_id": 191,
+        "product_id": 303,
+        "quantity": 3,
+        "total_price": 125.85,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 684,
+        "customer_id": 128,
+        "product_id": 388,
+        "quantity": 8,
+        "total_price": 771.94,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 685,
+        "customer_id": 170,
+        "product_id": 369,
+        "quantity": 3,
+        "total_price": 167.87,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 686,
+        "customer_id": 116,
+        "product_id": 374,
+        "quantity": 8,
+        "total_price": 599.95,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 687,
+        "customer_id": 121,
+        "product_id": 366,
+        "quantity": 2,
+        "total_price": 142.64,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 688,
+        "customer_id": 159,
+        "product_id": 382,
+        "quantity": 6,
+        "total_price": 484.95,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 689,
+        "customer_id": 130,
+        "product_id": 370,
+        "quantity": 10,
+        "total_price": 130.39,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 690,
+        "customer_id": 158,
+        "product_id": 302,
+        "quantity": 10,
+        "total_price": 658.3,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 691,
+        "customer_id": 131,
+        "product_id": 306,
+        "quantity": 8,
+        "total_price": 304.89,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 692,
+        "customer_id": 127,
+        "product_id": 354,
+        "quantity": 1,
+        "total_price": 76.68,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 693,
+        "customer_id": 112,
+        "product_id": 375,
+        "quantity": 10,
+        "total_price": 258.29,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 694,
+        "customer_id": 138,
+        "product_id": 372,
+        "quantity": 4,
+        "total_price": 354.69,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 695,
+        "customer_id": 107,
+        "product_id": 303,
+        "quantity": 6,
+        "total_price": 352.15,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 696,
+        "customer_id": 101,
+        "product_id": 354,
+        "quantity": 2,
+        "total_price": 105.58,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 697,
+        "customer_id": 136,
+        "product_id": 306,
+        "quantity": 5,
+        "total_price": 108.87,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 698,
+        "customer_id": 122,
+        "product_id": 348,
+        "quantity": 10,
+        "total_price": 696.79,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 699,
+        "customer_id": 123,
+        "product_id": 346,
+        "quantity": 2,
+        "total_price": 142.37,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 700,
+        "customer_id": 131,
+        "product_id": 360,
+        "quantity": 1,
+        "total_price": 42.06,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 701,
+        "customer_id": 121,
+        "product_id": 327,
+        "quantity": 10,
+        "total_price": 670.65,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 702,
+        "customer_id": 173,
+        "product_id": 358,
+        "quantity": 9,
+        "total_price": 369.35,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 703,
+        "customer_id": 171,
+        "product_id": 300,
+        "quantity": 10,
+        "total_price": 644.28,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 704,
+        "customer_id": 198,
+        "product_id": 335,
+        "quantity": 4,
+        "total_price": 96.25,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 705,
+        "customer_id": 189,
+        "product_id": 372,
+        "quantity": 2,
+        "total_price": 148.41,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 706,
+        "customer_id": 188,
+        "product_id": 329,
+        "quantity": 6,
+        "total_price": 542.1,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 707,
+        "customer_id": 145,
+        "product_id": 339,
+        "quantity": 5,
+        "total_price": 421.57,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 708,
+        "customer_id": 133,
+        "product_id": 353,
+        "quantity": 2,
+        "total_price": 138.7,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 709,
+        "customer_id": 151,
+        "product_id": 359,
+        "quantity": 9,
+        "total_price": 776.95,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 710,
+        "customer_id": 145,
+        "product_id": 398,
+        "quantity": 1,
+        "total_price": 96.79,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 711,
+        "customer_id": 169,
+        "product_id": 350,
+        "quantity": 3,
+        "total_price": 60.35,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 712,
+        "customer_id": 102,
+        "product_id": 372,
+        "quantity": 6,
+        "total_price": 562.08,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 713,
+        "customer_id": 104,
+        "product_id": 380,
+        "quantity": 9,
+        "total_price": 413.3,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 714,
+        "customer_id": 183,
+        "product_id": 323,
+        "quantity": 3,
+        "total_price": 193.84,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 715,
+        "customer_id": 139,
+        "product_id": 397,
+        "quantity": 4,
+        "total_price": 225.85,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 716,
+        "customer_id": 131,
+        "product_id": 381,
+        "quantity": 5,
+        "total_price": 357.05,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 717,
+        "customer_id": 194,
+        "product_id": 307,
+        "quantity": 10,
+        "total_price": 582.26,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 718,
+        "customer_id": 109,
+        "product_id": 327,
+        "quantity": 7,
+        "total_price": 214.64,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 719,
+        "customer_id": 178,
+        "product_id": 312,
+        "quantity": 2,
+        "total_price": 148.9,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 720,
+        "customer_id": 189,
+        "product_id": 312,
+        "quantity": 4,
+        "total_price": 282.27,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 721,
+        "customer_id": 186,
+        "product_id": 384,
+        "quantity": 5,
+        "total_price": 416.94,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 722,
+        "customer_id": 193,
+        "product_id": 388,
+        "quantity": 7,
+        "total_price": 579.51,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 723,
+        "customer_id": 137,
+        "product_id": 334,
+        "quantity": 3,
+        "total_price": 56.07,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 724,
+        "customer_id": 163,
+        "product_id": 397,
+        "quantity": 10,
+        "total_price": 954.47,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 725,
+        "customer_id": 104,
+        "product_id": 315,
+        "quantity": 4,
+        "total_price": 394.26,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 726,
+        "customer_id": 116,
+        "product_id": 329,
+        "quantity": 3,
+        "total_price": 49.15,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 727,
+        "customer_id": 159,
+        "product_id": 390,
+        "quantity": 4,
+        "total_price": 389.04,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 728,
+        "customer_id": 143,
+        "product_id": 375,
+        "quantity": 7,
+        "total_price": 688.06,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 729,
+        "customer_id": 135,
+        "product_id": 385,
+        "quantity": 9,
+        "total_price": 180.9,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 730,
+        "customer_id": 157,
+        "product_id": 372,
+        "quantity": 9,
+        "total_price": 240.63,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 731,
+        "customer_id": 135,
+        "product_id": 343,
+        "quantity": 2,
+        "total_price": 133.37,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 732,
+        "customer_id": 152,
+        "product_id": 348,
+        "quantity": 8,
+        "total_price": 541.14,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 733,
+        "customer_id": 132,
+        "product_id": 397,
+        "quantity": 6,
+        "total_price": 119.56,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 734,
+        "customer_id": 111,
+        "product_id": 306,
+        "quantity": 4,
+        "total_price": 319.19,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 735,
+        "customer_id": 150,
+        "product_id": 373,
+        "quantity": 1,
+        "total_price": 49.78,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 736,
+        "customer_id": 129,
+        "product_id": 308,
+        "quantity": 10,
+        "total_price": 689.42,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 737,
+        "customer_id": 103,
+        "product_id": 343,
+        "quantity": 2,
+        "total_price": 176.33,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 738,
+        "customer_id": 124,
+        "product_id": 318,
+        "quantity": 2,
+        "total_price": 80.21,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 739,
+        "customer_id": 199,
+        "product_id": 383,
+        "quantity": 7,
+        "total_price": 268.28,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 740,
+        "customer_id": 139,
+        "product_id": 337,
+        "quantity": 5,
+        "total_price": 121.96,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 741,
+        "customer_id": 142,
+        "product_id": 324,
+        "quantity": 3,
+        "total_price": 250.65,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 742,
+        "customer_id": 183,
+        "product_id": 369,
+        "quantity": 2,
+        "total_price": 192.66,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 743,
+        "customer_id": 199,
+        "product_id": 398,
+        "quantity": 9,
+        "total_price": 619.87,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 744,
+        "customer_id": 192,
+        "product_id": 386,
+        "quantity": 5,
+        "total_price": 117.71,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 745,
+        "customer_id": 110,
+        "product_id": 304,
+        "quantity": 3,
+        "total_price": 124.75,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 746,
+        "customer_id": 197,
+        "product_id": 343,
+        "quantity": 6,
+        "total_price": 174.25,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 747,
+        "customer_id": 121,
+        "product_id": 384,
+        "quantity": 6,
+        "total_price": 176.5,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 748,
+        "customer_id": 176,
+        "product_id": 317,
+        "quantity": 9,
+        "total_price": 299.0,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 749,
+        "customer_id": 187,
+        "product_id": 361,
+        "quantity": 1,
+        "total_price": 16.26,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 750,
+        "customer_id": 181,
+        "product_id": 394,
+        "quantity": 1,
+        "total_price": 45.17,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 751,
+        "customer_id": 118,
+        "product_id": 368,
+        "quantity": 10,
+        "total_price": 846.08,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 752,
+        "customer_id": 181,
+        "product_id": 387,
+        "quantity": 3,
+        "total_price": 156.67,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 753,
+        "customer_id": 166,
+        "product_id": 387,
+        "quantity": 7,
+        "total_price": 356.73,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 754,
+        "customer_id": 118,
+        "product_id": 342,
+        "quantity": 8,
+        "total_price": 762.23,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 755,
+        "customer_id": 138,
+        "product_id": 317,
+        "quantity": 10,
+        "total_price": 835.05,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 756,
+        "customer_id": 150,
+        "product_id": 326,
+        "quantity": 1,
+        "total_price": 59.85,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 757,
+        "customer_id": 130,
+        "product_id": 379,
+        "quantity": 3,
+        "total_price": 109.88,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 758,
+        "customer_id": 191,
+        "product_id": 381,
+        "quantity": 3,
+        "total_price": 170.57,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 759,
+        "customer_id": 116,
+        "product_id": 301,
+        "quantity": 3,
+        "total_price": 78.3,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 760,
+        "customer_id": 167,
+        "product_id": 311,
+        "quantity": 4,
+        "total_price": 320.96,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 761,
+        "customer_id": 119,
+        "product_id": 343,
+        "quantity": 10,
+        "total_price": 769.72,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 762,
+        "customer_id": 121,
+        "product_id": 336,
+        "quantity": 7,
+        "total_price": 363.29,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 763,
+        "customer_id": 185,
+        "product_id": 370,
+        "quantity": 2,
+        "total_price": 116.14,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 764,
+        "customer_id": 106,
+        "product_id": 333,
+        "quantity": 7,
+        "total_price": 292.11,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 765,
+        "customer_id": 186,
+        "product_id": 316,
+        "quantity": 6,
+        "total_price": 504.72,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 766,
+        "customer_id": 146,
+        "product_id": 357,
+        "quantity": 9,
+        "total_price": 205.8,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 767,
+        "customer_id": 120,
+        "product_id": 314,
+        "quantity": 4,
+        "total_price": 325.81,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 768,
+        "customer_id": 126,
+        "product_id": 392,
+        "quantity": 1,
+        "total_price": 96.84,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 769,
+        "customer_id": 135,
+        "product_id": 343,
+        "quantity": 9,
+        "total_price": 260.99,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 770,
+        "customer_id": 135,
+        "product_id": 362,
+        "quantity": 8,
+        "total_price": 503.25,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 771,
+        "customer_id": 153,
+        "product_id": 364,
+        "quantity": 3,
+        "total_price": 101.51,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 772,
+        "customer_id": 119,
+        "product_id": 365,
+        "quantity": 3,
+        "total_price": 221.11,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 773,
+        "customer_id": 117,
+        "product_id": 394,
+        "quantity": 4,
+        "total_price": 94.22,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 774,
+        "customer_id": 159,
+        "product_id": 361,
+        "quantity": 1,
+        "total_price": 47.66,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 775,
+        "customer_id": 112,
+        "product_id": 313,
+        "quantity": 4,
+        "total_price": 170.98,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 776,
+        "customer_id": 155,
+        "product_id": 363,
+        "quantity": 8,
+        "total_price": 276.69,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 777,
+        "customer_id": 184,
+        "product_id": 363,
+        "quantity": 6,
+        "total_price": 143.33,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 778,
+        "customer_id": 200,
+        "product_id": 344,
+        "quantity": 9,
+        "total_price": 584.88,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 779,
+        "customer_id": 133,
+        "product_id": 389,
+        "quantity": 6,
+        "total_price": 570.99,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 780,
+        "customer_id": 104,
+        "product_id": 321,
+        "quantity": 8,
+        "total_price": 381.2,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 781,
+        "customer_id": 168,
+        "product_id": 323,
+        "quantity": 4,
+        "total_price": 370.47,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 782,
+        "customer_id": 104,
+        "product_id": 343,
+        "quantity": 5,
+        "total_price": 119.87,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 783,
+        "customer_id": 184,
+        "product_id": 394,
+        "quantity": 9,
+        "total_price": 831.69,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 784,
+        "customer_id": 157,
+        "product_id": 364,
+        "quantity": 8,
+        "total_price": 383.83,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 785,
+        "customer_id": 199,
+        "product_id": 351,
+        "quantity": 1,
+        "total_price": 19.34,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 786,
+        "customer_id": 141,
+        "product_id": 342,
+        "quantity": 8,
+        "total_price": 160.66,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 787,
+        "customer_id": 194,
+        "product_id": 325,
+        "quantity": 2,
+        "total_price": 192.04,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 788,
+        "customer_id": 122,
+        "product_id": 374,
+        "quantity": 10,
+        "total_price": 427.38,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 789,
+        "customer_id": 131,
+        "product_id": 301,
+        "quantity": 1,
+        "total_price": 99.56,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 790,
+        "customer_id": 168,
+        "product_id": 400,
+        "quantity": 5,
+        "total_price": 89.44,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 791,
+        "customer_id": 188,
+        "product_id": 333,
+        "quantity": 6,
+        "total_price": 539.19,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 792,
+        "customer_id": 128,
+        "product_id": 302,
+        "quantity": 8,
+        "total_price": 390.28,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 793,
+        "customer_id": 181,
+        "product_id": 331,
+        "quantity": 5,
+        "total_price": 485.28,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 794,
+        "customer_id": 103,
+        "product_id": 365,
+        "quantity": 5,
+        "total_price": 403.55,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 795,
+        "customer_id": 107,
+        "product_id": 379,
+        "quantity": 5,
+        "total_price": 472.43,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 796,
+        "customer_id": 167,
+        "product_id": 334,
+        "quantity": 9,
+        "total_price": 599.98,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 797,
+        "customer_id": 186,
+        "product_id": 348,
+        "quantity": 3,
+        "total_price": 247.15,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 798,
+        "customer_id": 172,
+        "product_id": 361,
+        "quantity": 1,
+        "total_price": 12.95,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 799,
+        "customer_id": 102,
+        "product_id": 349,
+        "quantity": 5,
+        "total_price": 419.22,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 800,
+        "customer_id": 158,
+        "product_id": 372,
+        "quantity": 1,
+        "total_price": 26.77,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 801,
+        "customer_id": 151,
+        "product_id": 391,
+        "quantity": 8,
+        "total_price": 754.92,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 802,
+        "customer_id": 179,
+        "product_id": 301,
+        "quantity": 2,
+        "total_price": 169.7,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 803,
+        "customer_id": 181,
+        "product_id": 365,
+        "quantity": 4,
+        "total_price": 264.75,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 804,
+        "customer_id": 111,
+        "product_id": 301,
+        "quantity": 2,
+        "total_price": 136.98,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 805,
+        "customer_id": 192,
+        "product_id": 363,
+        "quantity": 6,
+        "total_price": 128.82,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 806,
+        "customer_id": 194,
+        "product_id": 328,
+        "quantity": 1,
+        "total_price": 35.26,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 807,
+        "customer_id": 111,
+        "product_id": 340,
+        "quantity": 6,
+        "total_price": 475.04,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 808,
+        "customer_id": 101,
+        "product_id": 350,
+        "quantity": 8,
+        "total_price": 174.51,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 809,
+        "customer_id": 103,
+        "product_id": 397,
+        "quantity": 7,
+        "total_price": 519.88,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 810,
+        "customer_id": 145,
+        "product_id": 309,
+        "quantity": 10,
+        "total_price": 958.79,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 811,
+        "customer_id": 166,
+        "product_id": 344,
+        "quantity": 8,
+        "total_price": 434.31,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 812,
+        "customer_id": 165,
+        "product_id": 359,
+        "quantity": 2,
+        "total_price": 133.98,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 813,
+        "customer_id": 105,
+        "product_id": 349,
+        "quantity": 10,
+        "total_price": 560.53,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 814,
+        "customer_id": 175,
+        "product_id": 378,
+        "quantity": 3,
+        "total_price": 52.19,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 815,
+        "customer_id": 111,
+        "product_id": 376,
+        "quantity": 9,
+        "total_price": 742.49,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 816,
+        "customer_id": 179,
+        "product_id": 381,
+        "quantity": 2,
+        "total_price": 105.34,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 817,
+        "customer_id": 145,
+        "product_id": 340,
+        "quantity": 6,
+        "total_price": 78.72,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 818,
+        "customer_id": 185,
+        "product_id": 306,
+        "quantity": 8,
+        "total_price": 471.7,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 819,
+        "customer_id": 173,
+        "product_id": 384,
+        "quantity": 9,
+        "total_price": 352.97,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 820,
+        "customer_id": 190,
+        "product_id": 336,
+        "quantity": 1,
+        "total_price": 75.49,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 821,
+        "customer_id": 164,
+        "product_id": 334,
+        "quantity": 9,
+        "total_price": 477.39,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 822,
+        "customer_id": 118,
+        "product_id": 378,
+        "quantity": 10,
+        "total_price": 273.61,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 823,
+        "customer_id": 193,
+        "product_id": 301,
+        "quantity": 5,
+        "total_price": 220.97,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 824,
+        "customer_id": 165,
+        "product_id": 319,
+        "quantity": 4,
+        "total_price": 149.97,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 825,
+        "customer_id": 136,
+        "product_id": 356,
+        "quantity": 4,
+        "total_price": 78.93,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 826,
+        "customer_id": 135,
+        "product_id": 399,
+        "quantity": 9,
+        "total_price": 372.15,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 827,
+        "customer_id": 128,
+        "product_id": 311,
+        "quantity": 2,
+        "total_price": 112.46,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 828,
+        "customer_id": 170,
+        "product_id": 340,
+        "quantity": 10,
+        "total_price": 431.41,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 829,
+        "customer_id": 148,
+        "product_id": 364,
+        "quantity": 8,
+        "total_price": 391.5,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 830,
+        "customer_id": 186,
+        "product_id": 353,
+        "quantity": 2,
+        "total_price": 33.69,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 831,
+        "customer_id": 196,
+        "product_id": 391,
+        "quantity": 10,
+        "total_price": 353.94,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 832,
+        "customer_id": 163,
+        "product_id": 323,
+        "quantity": 2,
+        "total_price": 129.93,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 833,
+        "customer_id": 114,
+        "product_id": 334,
+        "quantity": 3,
+        "total_price": 100.8,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 834,
+        "customer_id": 137,
+        "product_id": 347,
+        "quantity": 10,
+        "total_price": 931.1,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 835,
+        "customer_id": 118,
+        "product_id": 393,
+        "quantity": 1,
+        "total_price": 55.47,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 836,
+        "customer_id": 145,
+        "product_id": 337,
+        "quantity": 6,
+        "total_price": 570.16,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 837,
+        "customer_id": 147,
+        "product_id": 301,
+        "quantity": 9,
+        "total_price": 279.56,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 838,
+        "customer_id": 200,
+        "product_id": 325,
+        "quantity": 4,
+        "total_price": 398.17,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 839,
+        "customer_id": 114,
+        "product_id": 315,
+        "quantity": 1,
+        "total_price": 39.85,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 840,
+        "customer_id": 122,
+        "product_id": 310,
+        "quantity": 1,
+        "total_price": 69.98,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 841,
+        "customer_id": 154,
+        "product_id": 390,
+        "quantity": 9,
+        "total_price": 679.41,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 842,
+        "customer_id": 171,
+        "product_id": 340,
+        "quantity": 3,
+        "total_price": 146.55,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 843,
+        "customer_id": 135,
+        "product_id": 340,
+        "quantity": 6,
+        "total_price": 567.97,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 844,
+        "customer_id": 127,
+        "product_id": 374,
+        "quantity": 2,
+        "total_price": 132.19,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 845,
+        "customer_id": 154,
+        "product_id": 316,
+        "quantity": 10,
+        "total_price": 394.1,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 846,
+        "customer_id": 181,
+        "product_id": 368,
+        "quantity": 9,
+        "total_price": 686.81,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 847,
+        "customer_id": 140,
+        "product_id": 357,
+        "quantity": 5,
+        "total_price": 371.53,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 848,
+        "customer_id": 135,
+        "product_id": 314,
+        "quantity": 3,
+        "total_price": 281.63,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 849,
+        "customer_id": 183,
+        "product_id": 384,
+        "quantity": 6,
+        "total_price": 504.05,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 850,
+        "customer_id": 103,
+        "product_id": 399,
+        "quantity": 3,
+        "total_price": 94.92,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 851,
+        "customer_id": 162,
+        "product_id": 355,
+        "quantity": 5,
+        "total_price": 223.14,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 852,
+        "customer_id": 174,
+        "product_id": 399,
+        "quantity": 4,
+        "total_price": 350.15,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 853,
+        "customer_id": 157,
+        "product_id": 390,
+        "quantity": 7,
+        "total_price": 677.57,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 854,
+        "customer_id": 130,
+        "product_id": 371,
+        "quantity": 5,
+        "total_price": 469.13,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 855,
+        "customer_id": 178,
+        "product_id": 304,
+        "quantity": 8,
+        "total_price": 138.41,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 856,
+        "customer_id": 170,
+        "product_id": 325,
+        "quantity": 8,
+        "total_price": 322.35,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 857,
+        "customer_id": 152,
+        "product_id": 395,
+        "quantity": 5,
+        "total_price": 373.66,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 858,
+        "customer_id": 179,
+        "product_id": 305,
+        "quantity": 4,
+        "total_price": 198.68,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 859,
+        "customer_id": 171,
+        "product_id": 306,
+        "quantity": 10,
+        "total_price": 222.58,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 860,
+        "customer_id": 192,
+        "product_id": 365,
+        "quantity": 1,
+        "total_price": 38.77,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 861,
+        "customer_id": 113,
+        "product_id": 387,
+        "quantity": 3,
+        "total_price": 291.08,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 862,
+        "customer_id": 100,
+        "product_id": 352,
+        "quantity": 8,
+        "total_price": 253.49,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 863,
+        "customer_id": 110,
+        "product_id": 304,
+        "quantity": 4,
+        "total_price": 362.53,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 864,
+        "customer_id": 190,
+        "product_id": 393,
+        "quantity": 6,
+        "total_price": 211.53,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 865,
+        "customer_id": 176,
+        "product_id": 368,
+        "quantity": 9,
+        "total_price": 791.8,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 866,
+        "customer_id": 161,
+        "product_id": 332,
+        "quantity": 9,
+        "total_price": 846.33,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 867,
+        "customer_id": 121,
+        "product_id": 302,
+        "quantity": 10,
+        "total_price": 135.6,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 868,
+        "customer_id": 136,
+        "product_id": 313,
+        "quantity": 5,
+        "total_price": 126.5,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 869,
+        "customer_id": 151,
+        "product_id": 305,
+        "quantity": 8,
+        "total_price": 658.75,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 870,
+        "customer_id": 189,
+        "product_id": 399,
+        "quantity": 6,
+        "total_price": 217.65,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 871,
+        "customer_id": 160,
+        "product_id": 308,
+        "quantity": 3,
+        "total_price": 136.71,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 872,
+        "customer_id": 178,
+        "product_id": 400,
+        "quantity": 6,
+        "total_price": 178.41,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 873,
+        "customer_id": 112,
+        "product_id": 370,
+        "quantity": 9,
+        "total_price": 634.36,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 874,
+        "customer_id": 118,
+        "product_id": 395,
+        "quantity": 5,
+        "total_price": 483.92,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 875,
+        "customer_id": 101,
+        "product_id": 359,
+        "quantity": 4,
+        "total_price": 356.34,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 876,
+        "customer_id": 102,
+        "product_id": 377,
+        "quantity": 4,
+        "total_price": 287.55,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 877,
+        "customer_id": 153,
+        "product_id": 344,
+        "quantity": 8,
+        "total_price": 176.89,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 878,
+        "customer_id": 174,
+        "product_id": 340,
+        "quantity": 4,
+        "total_price": 97.33,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 879,
+        "customer_id": 141,
+        "product_id": 314,
+        "quantity": 7,
+        "total_price": 182.93,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 880,
+        "customer_id": 161,
+        "product_id": 370,
+        "quantity": 4,
+        "total_price": 219.32,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 881,
+        "customer_id": 193,
+        "product_id": 334,
+        "quantity": 7,
+        "total_price": 457.85,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 882,
+        "customer_id": 126,
+        "product_id": 326,
+        "quantity": 4,
+        "total_price": 187.98,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 883,
+        "customer_id": 193,
+        "product_id": 337,
+        "quantity": 7,
+        "total_price": 486.58,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 884,
+        "customer_id": 170,
+        "product_id": 309,
+        "quantity": 6,
+        "total_price": 81.69,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 885,
+        "customer_id": 152,
+        "product_id": 308,
+        "quantity": 5,
+        "total_price": 473.65,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 886,
+        "customer_id": 137,
+        "product_id": 336,
+        "quantity": 6,
+        "total_price": 249.08,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 887,
+        "customer_id": 144,
+        "product_id": 349,
+        "quantity": 2,
+        "total_price": 99.81,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 888,
+        "customer_id": 110,
+        "product_id": 353,
+        "quantity": 2,
+        "total_price": 62.61,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 889,
+        "customer_id": 149,
+        "product_id": 384,
+        "quantity": 8,
+        "total_price": 753.8,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 890,
+        "customer_id": 168,
+        "product_id": 379,
+        "quantity": 9,
+        "total_price": 430.32,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 891,
+        "customer_id": 200,
+        "product_id": 314,
+        "quantity": 9,
+        "total_price": 92.16,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 892,
+        "customer_id": 154,
+        "product_id": 316,
+        "quantity": 4,
+        "total_price": 279.31,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 893,
+        "customer_id": 132,
+        "product_id": 390,
+        "quantity": 7,
+        "total_price": 139.68,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 894,
+        "customer_id": 151,
+        "product_id": 365,
+        "quantity": 1,
+        "total_price": 45.66,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 895,
+        "customer_id": 105,
+        "product_id": 337,
+        "quantity": 6,
+        "total_price": 184.56,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 896,
+        "customer_id": 189,
+        "product_id": 349,
+        "quantity": 2,
+        "total_price": 58.14,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 897,
+        "customer_id": 153,
+        "product_id": 375,
+        "quantity": 5,
+        "total_price": 439.9,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 898,
+        "customer_id": 167,
+        "product_id": 355,
+        "quantity": 9,
+        "total_price": 536.78,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 899,
+        "customer_id": 116,
+        "product_id": 345,
+        "quantity": 6,
+        "total_price": 352.11,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 900,
+        "customer_id": 159,
+        "product_id": 400,
+        "quantity": 7,
+        "total_price": 276.65,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 901,
+        "customer_id": 192,
+        "product_id": 319,
+        "quantity": 7,
+        "total_price": 642.66,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 902,
+        "customer_id": 152,
+        "product_id": 379,
+        "quantity": 9,
+        "total_price": 238.6,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 903,
+        "customer_id": 188,
+        "product_id": 362,
+        "quantity": 1,
+        "total_price": 34.06,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 904,
+        "customer_id": 178,
+        "product_id": 360,
+        "quantity": 1,
+        "total_price": 78.87,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 905,
+        "customer_id": 126,
+        "product_id": 343,
+        "quantity": 5,
+        "total_price": 444.07,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 906,
+        "customer_id": 173,
+        "product_id": 368,
+        "quantity": 4,
+        "total_price": 321.8,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 907,
+        "customer_id": 122,
+        "product_id": 314,
+        "quantity": 6,
+        "total_price": 503.13,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 908,
+        "customer_id": 165,
+        "product_id": 344,
+        "quantity": 6,
+        "total_price": 375.78,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 909,
+        "customer_id": 139,
+        "product_id": 342,
+        "quantity": 10,
+        "total_price": 368.21,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 910,
+        "customer_id": 152,
+        "product_id": 376,
+        "quantity": 4,
+        "total_price": 380.8,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 911,
+        "customer_id": 100,
+        "product_id": 334,
+        "quantity": 2,
+        "total_price": 166.66,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 912,
+        "customer_id": 127,
+        "product_id": 301,
+        "quantity": 8,
+        "total_price": 491.26,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 913,
+        "customer_id": 189,
+        "product_id": 345,
+        "quantity": 6,
+        "total_price": 150.7,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 914,
+        "customer_id": 115,
+        "product_id": 374,
+        "quantity": 3,
+        "total_price": 137.54,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 915,
+        "customer_id": 178,
+        "product_id": 301,
+        "quantity": 10,
+        "total_price": 285.53,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 916,
+        "customer_id": 152,
+        "product_id": 330,
+        "quantity": 2,
+        "total_price": 156.19,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 917,
+        "customer_id": 118,
+        "product_id": 391,
+        "quantity": 4,
+        "total_price": 299.35,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 918,
+        "customer_id": 186,
+        "product_id": 376,
+        "quantity": 1,
+        "total_price": 18.31,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 919,
+        "customer_id": 137,
+        "product_id": 327,
+        "quantity": 10,
+        "total_price": 402.15,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 920,
+        "customer_id": 124,
+        "product_id": 366,
+        "quantity": 10,
+        "total_price": 314.41,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 921,
+        "customer_id": 130,
+        "product_id": 322,
+        "quantity": 4,
+        "total_price": 194.31,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 922,
+        "customer_id": 117,
+        "product_id": 384,
+        "quantity": 9,
+        "total_price": 179.2,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 923,
+        "customer_id": 121,
+        "product_id": 320,
+        "quantity": 7,
+        "total_price": 438.16,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 924,
+        "customer_id": 199,
+        "product_id": 331,
+        "quantity": 3,
+        "total_price": 61.59,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 925,
+        "customer_id": 129,
+        "product_id": 393,
+        "quantity": 10,
+        "total_price": 307.35,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 926,
+        "customer_id": 128,
+        "product_id": 313,
+        "quantity": 3,
+        "total_price": 297.92,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 927,
+        "customer_id": 129,
+        "product_id": 346,
+        "quantity": 2,
+        "total_price": 24.01,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 928,
+        "customer_id": 159,
+        "product_id": 319,
+        "quantity": 1,
+        "total_price": 43.62,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 929,
+        "customer_id": 118,
+        "product_id": 310,
+        "quantity": 10,
+        "total_price": 269.83,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 930,
+        "customer_id": 146,
+        "product_id": 389,
+        "quantity": 8,
+        "total_price": 537.34,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 931,
+        "customer_id": 140,
+        "product_id": 336,
+        "quantity": 10,
+        "total_price": 251.98,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 932,
+        "customer_id": 130,
+        "product_id": 365,
+        "quantity": 3,
+        "total_price": 173.68,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 933,
+        "customer_id": 162,
+        "product_id": 329,
+        "quantity": 4,
+        "total_price": 52.57,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 934,
+        "customer_id": 185,
+        "product_id": 304,
+        "quantity": 10,
+        "total_price": 427.12,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 935,
+        "customer_id": 104,
+        "product_id": 359,
+        "quantity": 2,
+        "total_price": 45.26,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 936,
+        "customer_id": 112,
+        "product_id": 355,
+        "quantity": 5,
+        "total_price": 57.34,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 937,
+        "customer_id": 102,
+        "product_id": 350,
+        "quantity": 1,
+        "total_price": 83.27,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 938,
+        "customer_id": 127,
+        "product_id": 318,
+        "quantity": 10,
+        "total_price": 917.6,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 939,
+        "customer_id": 161,
+        "product_id": 375,
+        "quantity": 2,
+        "total_price": 55.64,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 940,
+        "customer_id": 136,
+        "product_id": 368,
+        "quantity": 1,
+        "total_price": 40.21,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 941,
+        "customer_id": 107,
+        "product_id": 343,
+        "quantity": 2,
+        "total_price": 101.85,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 942,
+        "customer_id": 111,
+        "product_id": 319,
+        "quantity": 3,
+        "total_price": 202.94,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 943,
+        "customer_id": 133,
+        "product_id": 306,
+        "quantity": 5,
+        "total_price": 197.67,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 944,
+        "customer_id": 129,
+        "product_id": 356,
+        "quantity": 8,
+        "total_price": 694.69,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 945,
+        "customer_id": 187,
+        "product_id": 319,
+        "quantity": 4,
+        "total_price": 196.41,
+        "sales_date": "2024-12-19"
+    },
+    {
+        "transaction_id": 946,
+        "customer_id": 123,
+        "product_id": 344,
+        "quantity": 2,
+        "total_price": 78.0,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 947,
+        "customer_id": 141,
+        "product_id": 338,
+        "quantity": 6,
+        "total_price": 581.79,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 948,
+        "customer_id": 135,
+        "product_id": 314,
+        "quantity": 4,
+        "total_price": 153.74,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 949,
+        "customer_id": 102,
+        "product_id": 357,
+        "quantity": 4,
+        "total_price": 265.97,
+        "sales_date": "2024-12-04"
+    },
+    {
+        "transaction_id": 950,
+        "customer_id": 153,
+        "product_id": 381,
+        "quantity": 4,
+        "total_price": 185.32,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 951,
+        "customer_id": 149,
+        "product_id": 384,
+        "quantity": 4,
+        "total_price": 70.35,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 952,
+        "customer_id": 174,
+        "product_id": 357,
+        "quantity": 10,
+        "total_price": 493.88,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 953,
+        "customer_id": 131,
+        "product_id": 355,
+        "quantity": 3,
+        "total_price": 165.53,
+        "sales_date": "2024-12-18"
+    },
+    {
+        "transaction_id": 954,
+        "customer_id": 182,
+        "product_id": 304,
+        "quantity": 6,
+        "total_price": 123.59,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 955,
+        "customer_id": 140,
+        "product_id": 346,
+        "quantity": 5,
+        "total_price": 398.67,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 956,
+        "customer_id": 173,
+        "product_id": 335,
+        "quantity": 9,
+        "total_price": 391.43,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 957,
+        "customer_id": 101,
+        "product_id": 336,
+        "quantity": 3,
+        "total_price": 44.82,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 958,
+        "customer_id": 193,
+        "product_id": 368,
+        "quantity": 8,
+        "total_price": 248.96,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 959,
+        "customer_id": 138,
+        "product_id": 385,
+        "quantity": 1,
+        "total_price": 39.95,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 960,
+        "customer_id": 131,
+        "product_id": 345,
+        "quantity": 1,
+        "total_price": 74.68,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 961,
+        "customer_id": 154,
+        "product_id": 337,
+        "quantity": 1,
+        "total_price": 43.12,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 962,
+        "customer_id": 172,
+        "product_id": 383,
+        "quantity": 4,
+        "total_price": 77.62,
+        "sales_date": "2024-12-05"
+    },
+    {
+        "transaction_id": 963,
+        "customer_id": 108,
+        "product_id": 316,
+        "quantity": 10,
+        "total_price": 517.54,
+        "sales_date": "2024-12-08"
+    },
+    {
+        "transaction_id": 964,
+        "customer_id": 115,
+        "product_id": 335,
+        "quantity": 2,
+        "total_price": 28.8,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 965,
+        "customer_id": 162,
+        "product_id": 337,
+        "quantity": 7,
+        "total_price": 306.62,
+        "sales_date": "2024-12-22"
+    },
+    {
+        "transaction_id": 966,
+        "customer_id": 161,
+        "product_id": 380,
+        "quantity": 1,
+        "total_price": 24.88,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 967,
+        "customer_id": 193,
+        "product_id": 303,
+        "quantity": 3,
+        "total_price": 233.42,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 968,
+        "customer_id": 183,
+        "product_id": 355,
+        "quantity": 1,
+        "total_price": 72.39,
+        "sales_date": "2024-12-10"
+    },
+    {
+        "transaction_id": 969,
+        "customer_id": 150,
+        "product_id": 379,
+        "quantity": 1,
+        "total_price": 34.69,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 970,
+        "customer_id": 123,
+        "product_id": 307,
+        "quantity": 3,
+        "total_price": 119.58,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 971,
+        "customer_id": 169,
+        "product_id": 366,
+        "quantity": 8,
+        "total_price": 228.26,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 972,
+        "customer_id": 159,
+        "product_id": 361,
+        "quantity": 8,
+        "total_price": 533.51,
+        "sales_date": "2024-12-11"
+    },
+    {
+        "transaction_id": 973,
+        "customer_id": 152,
+        "product_id": 352,
+        "quantity": 1,
+        "total_price": 95.96,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 974,
+        "customer_id": 150,
+        "product_id": 302,
+        "quantity": 3,
+        "total_price": 249.46,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 975,
+        "customer_id": 145,
+        "product_id": 380,
+        "quantity": 2,
+        "total_price": 95.8,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 976,
+        "customer_id": 135,
+        "product_id": 330,
+        "quantity": 10,
+        "total_price": 763.95,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 977,
+        "customer_id": 114,
+        "product_id": 369,
+        "quantity": 2,
+        "total_price": 30.42,
+        "sales_date": "2024-12-14"
+    },
+    {
+        "transaction_id": 978,
+        "customer_id": 163,
+        "product_id": 346,
+        "quantity": 5,
+        "total_price": 83.21,
+        "sales_date": "2024-12-23"
+    },
+    {
+        "transaction_id": 979,
+        "customer_id": 136,
+        "product_id": 308,
+        "quantity": 1,
+        "total_price": 17.78,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 980,
+        "customer_id": 172,
+        "product_id": 312,
+        "quantity": 5,
+        "total_price": 114.39,
+        "sales_date": "2024-12-12"
+    },
+    {
+        "transaction_id": 981,
+        "customer_id": 164,
+        "product_id": 348,
+        "quantity": 5,
+        "total_price": 409.11,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 982,
+        "customer_id": 161,
+        "product_id": 343,
+        "quantity": 7,
+        "total_price": 169.05,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 983,
+        "customer_id": 176,
+        "product_id": 332,
+        "quantity": 8,
+        "total_price": 277.96,
+        "sales_date": "2024-12-06"
+    },
+    {
+        "transaction_id": 984,
+        "customer_id": 120,
+        "product_id": 387,
+        "quantity": 1,
+        "total_price": 22.45,
+        "sales_date": "2024-12-20"
+    },
+    {
+        "transaction_id": 985,
+        "customer_id": 122,
+        "product_id": 334,
+        "quantity": 7,
+        "total_price": 648.73,
+        "sales_date": "2024-12-01"
+    },
+    {
+        "transaction_id": 986,
+        "customer_id": 140,
+        "product_id": 358,
+        "quantity": 3,
+        "total_price": 202.43,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 987,
+        "customer_id": 116,
+        "product_id": 333,
+        "quantity": 8,
+        "total_price": 794.82,
+        "sales_date": "2024-12-03"
+    },
+    {
+        "transaction_id": 988,
+        "customer_id": 123,
+        "product_id": 343,
+        "quantity": 2,
+        "total_price": 171.11,
+        "sales_date": "2024-12-17"
+    },
+    {
+        "transaction_id": 989,
+        "customer_id": 152,
+        "product_id": 307,
+        "quantity": 3,
+        "total_price": 217.47,
+        "sales_date": "2024-12-15"
+    },
+    {
+        "transaction_id": 990,
+        "customer_id": 129,
+        "product_id": 361,
+        "quantity": 6,
+        "total_price": 554.86,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 991,
+        "customer_id": 173,
+        "product_id": 397,
+        "quantity": 1,
+        "total_price": 26.64,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 992,
+        "customer_id": 119,
+        "product_id": 306,
+        "quantity": 2,
+        "total_price": 66.64,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 993,
+        "customer_id": 112,
+        "product_id": 300,
+        "quantity": 5,
+        "total_price": 359.88,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 994,
+        "customer_id": 170,
+        "product_id": 343,
+        "quantity": 10,
+        "total_price": 761.08,
+        "sales_date": "2024-12-13"
+    },
+    {
+        "transaction_id": 995,
+        "customer_id": 159,
+        "product_id": 354,
+        "quantity": 6,
+        "total_price": 305.82,
+        "sales_date": "2024-12-02"
+    },
+    {
+        "transaction_id": 996,
+        "customer_id": 185,
+        "product_id": 361,
+        "quantity": 10,
+        "total_price": 633.08,
+        "sales_date": "2024-12-21"
+    },
+    {
+        "transaction_id": 997,
+        "customer_id": 104,
+        "product_id": 334,
+        "quantity": 6,
+        "total_price": 457.25,
+        "sales_date": "2024-12-09"
+    },
+    {
+        "transaction_id": 998,
+        "customer_id": 123,
+        "product_id": 360,
+        "quantity": 7,
+        "total_price": 314.74,
+        "sales_date": "2024-12-16"
+    },
+    {
+        "transaction_id": 999,
+        "customer_id": 133,
+        "product_id": 356,
+        "quantity": 2,
+        "total_price": 98.22,
+        "sales_date": "2024-12-07"
+    },
+    {
+        "transaction_id": 1000,
+        "customer_id": 161,
+        "product_id": 387,
+        "quantity": 5,
+        "total_price": 477.08,
+        "sales_date": "2024-12-23"
+    }
+]
